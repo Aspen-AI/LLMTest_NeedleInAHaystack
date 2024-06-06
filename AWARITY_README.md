@@ -2,8 +2,8 @@ Overview video: https://www.youtube.com/watch?v=KwRRuiCCdmc. See `README.md` for
 
 ### Install and Run
 
-1. Fork and clone the repository.
-2. Create and activate the virtual environment as described above.
+1. Clone the repository.
+2. Create and activate a virtual environment.
 3. Copy `.env.example` and name `.env`, use this file to set environment variables
 4. Install the package in editable mode by running the following command from repository root:
 
@@ -11,10 +11,12 @@ Overview video: https://www.youtube.com/watch?v=KwRRuiCCdmc. See `README.md` for
 pip install -e .
 ```
 
-The package `needlehaystack` is available for import in your test cases. Develop, make changes and test locally.
+The package `needlehaystack` is now available for import in your test cases. Develop, make changes and test locally.
+
+The executable 'needlehaystack.run_test' is now available to run from the command-line:
 
 ```zsh
-needlehaystack.run_test
+> needlehaystack.run_test -h
 ```
 
 See `launch.json` for other launch configurations.
@@ -23,6 +25,6 @@ See `launch.json` for other launch configurations.
 
 See `CreateVizFromLLMTesting.ipynb` to create visualizations. Explainer video: https://twitter.com/GregKamradt/status/1729573848893579488
 
-### NOTES TO SELF
+### GitHub Project Tracking
 
-We'll want to create an Awareness ModelProvider (see openai.py for an example) that will need to either hit the Awareness cloud API endpoint, or a thin wrapper around the Awareness CLI.
+See https://github.com/orgs/Aspen-AI/projects/6
