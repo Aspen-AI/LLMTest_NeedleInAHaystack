@@ -21,4 +21,4 @@ See `launch.json` for other launch configurations.
 
 ### Visualizations
 
-See `CreateVizFromLLMTesting.ipynb` to create visualizations. Explainer video: https://twitter.com/GregKamradt/status/1729573848893579488 
+See `CreateVizFromLLMTesting.ipynb` to create visualizations. Explainer video: https://twitter.com/GregKamradt/status/1729573848893579488
