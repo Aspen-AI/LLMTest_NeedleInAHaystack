@@ -3,7 +3,7 @@ import os
 from .evaluator import Evaluator
 
 from langchain.evaluation import load_evaluator
-from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI  
 
 class OpenAIEvaluator(Evaluator):
     DEFAULT_MODEL_KWARGS: dict = dict(temperature=0)

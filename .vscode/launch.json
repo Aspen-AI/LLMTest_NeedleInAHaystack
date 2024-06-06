@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": "${command:pickArgs}"
+        },
+        {
+            "name": "Debug openai example",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": "--provider openai --model_name gpt-3.5-turbo-0125 --document_depth_percents [50] --context_lengths [2000]"
+        },
+        {
+            "name": "Debug antropic example",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": "--provider anthropic --model_name claude-2.1 --document_depth_percents [50] --context_lengths [2000]"
+        },
+        {
+            "name": "Debug cohere example",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": "--provider cohere --model_name command-r --document_depth_percents [50] --context_lengths [2000]"
+        },
+    ]
+}
