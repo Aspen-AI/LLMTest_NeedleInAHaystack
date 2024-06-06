@@ -22,3 +22,7 @@ See `launch.json` for other launch configurations.
 ### Visualizations
 
 See `CreateVizFromLLMTesting.ipynb` to create visualizations. Explainer video: https://twitter.com/GregKamradt/status/1729573848893579488
+
+### NOTES TO SELF
+
+We'll want to create an Awareness ModelProvider (see openai.py for an example) that will need to either hit the Awareness cloud API endpoint, or a thin wrapper around the Awareness CLI.
