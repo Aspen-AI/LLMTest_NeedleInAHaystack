@@ -1,0 +1,90 @@
+{
+    "crawlers": [
+        {
+            "type": "BingSearchCrawler",
+            "alias": "bing",
+            "config": {
+                "skipErrors": true
+            }
+        },
+        {
+            "type": "FeedCrawler",
+            "alias": "feed",
+            "config": {
+                "skipErrors": true
+            }
+        },
+        {
+            "type": "WebCrawler",
+            "alias": "web",
+            "config": {
+                "skipErrors": true,
+                "crawlbaseJavaScript": {
+                    "scroll": true
+                }
+            }
+        },
+        {
+            "type": "FileSystemCrawler",
+            "alias": "local",
+            "config": {
+                "recursive": true,
+                "skipErrors": true
+            }
+        }
+    ],
+    "converters": [
+        {
+            "type": "CSVConverter",
+            "config": {
+                "extractLinks": true,
+                "removeEmptyColumns": true
+            }
+        },
+        {
+            "type": "XlsxConverter",
+            "config": {
+                "extractLinks": true,
+                "removeEmptyColumns": true
+            }
+        },
+        {
+            "type": "PDFConverter",
+            "config": {}
+        },
+        {
+            "type": "HtmlConverter",
+            "config": {}
+        },
+        {
+            "type": "UnstructuredConverter",
+            "config": {
+                "partitionParameters": {
+                    "strategy": "fast"
+                }
+            }
+        }
+    ],
+    "conversions": {
+        "csv": "md",
+        "tsv": "md",
+        "html": "md",
+        "pdf": "md",
+        "doc": "md",
+        "docx": "md",
+        "ppt": "md",
+        "pptx": "md",
+        "rtf": "md",
+        "epub": "md",
+        "odt": "md",
+        "xlsx": "md",
+
+        "png": "md",
+        "jpg": "md",
+        "jpeg": "md", 
+        "tiff": "md", 
+        "bmp": "md", 
+        "heic": "md"
+    },
+    "includeFileTypes": ["png", "jpg", "jpeg", "tiff", "bmp", "heic"]
+}

@@ -1,0 +1,24 @@
+{
+    "crawlers": [
+        {
+            "type": "BingSearchCrawler",
+            "config": {
+                "apiKey": "<BingSearchCrawler Key>"
+            }
+        },
+        {
+            "type": "WebCrawler",
+            "config": {
+                "crawlbaseToken": "<WebCrawler Key>"
+            }
+        }
+    ],
+    "converters": [
+        {
+            "type": "UnstructuredConverter",
+            "config": {
+                "apiKey": "UnstructuredConverter Key"
+            }
+        }
+    ]
+}

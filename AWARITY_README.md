@@ -36,11 +36,12 @@ See `CreateVizFromLLMTesting.ipynb` to create visualizations. Explainer video: h
     ```
 4. Install awareness npm package: `npm install -g @awarity/awareness`
 5. Add `.awareness` (already provided at the root of this repository) and `.awareness.keys` files (see `.awareness.keys.example`). They just need to be found above any folder you want to search from. DO NOT check-in your `.awareness.keys` file.
-6. To use type `awareness --help` for a list of supported commands. Some examples:
+6. Add `.avalanche` (already provided at the root of this repository) and `.avalanche.keys` files (see `.avalanche.keys.example`). They just need to be found above any folder you want to search from. DO NOT check-in your `.avalanche.keys` file.
+7. To use type `awareness --help` for a list of supported commands. Some examples:
     - To reason over  a weblink: `awareness query "what does this company do?" --uri https://awarity.ai`
     - To reason over a local folder: `awareness query "what was the first game played of bowl season?" --uri ./bowls-2023`
     - To reason over a web search: `awareness serp "tell me about the team behind awarity.ai"`
-7. Other notes:
+8. Other notes:
     - You can try different models using the `--model` switch. The default is `--model gpt-4` but you can use `--model synapse-small` to use the ARC 4090 and `--model synapse-medium` to use Llama 3 70b running on Fireworks.ai.  You can see all of the available models in the `.awareness` file.
     - If you want to reason over a list of links (or files & folders) you can create a file (awarity.links or whatever) containing each link on a separate line (like below), and then pass it in to the query command using the `--list` switch instead of the `--uri` switch:
         ```
