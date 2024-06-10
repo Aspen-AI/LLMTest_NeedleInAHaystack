@@ -168,7 +168,6 @@ class LLMMultiNeedleHaystackTester(LLMNeedleHaystackTester):
         test_start_time = time.time()
 
         # LangSmith
-        ## TODO: Support for other evaluators 
         if self.evaluator.__class__.__name__ == "LangSmithEvaluator":  
             print("EVALUATOR: LANGSMITH")
             chain = self.model_to_test.get_langchain_runnable(context)

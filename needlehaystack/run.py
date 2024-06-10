@@ -6,7 +6,7 @@ from jsonargparse import CLI
 
 from . import LLMNeedleHaystackTester, LLMMultiNeedleHaystackTester
 from .evaluators import Evaluator, LangSmithEvaluator, OpenAIEvaluator
-from .providers import Anthropic, ModelProvider, OpenAI, Cohere
+from .providers import Anthropic, ModelProvider, OpenAI, Cohere, AwarenessCLI
 
 load_dotenv()
 
@@ -59,6 +59,8 @@ def get_model_to_test(args: CommandArgs) -> ModelProvider:
         ValueError: If the specified provider is not supported.
     """
     match args.provider.lower():
+        case "awareness":
+            return AwarenessCLI(model_name=args.model_name)
         case "openai":
             return OpenAI(model_name=args.model_name)
         case "anthropic":

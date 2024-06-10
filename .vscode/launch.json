@@ -12,6 +12,13 @@
             "args": "--model_name gpt-4o --evaluator_model_name gpt-4o ${command:pickArgs}"
         },
         {
+            "name": "Debug awareness",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": "--provider awareness --model_name gpt-4o --evaluator_model_name gpt-4o --document_depth_percents [50] --context_lengths [2000]"
+        },
+        {
             "name": "Debug openai example (gpt-4o)",
             "type": "debugpy",
             "request": "launch",
