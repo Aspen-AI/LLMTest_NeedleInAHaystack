@@ -1,0 +1,20 @@
+{
+    "clusters": [
+        {
+            "name": "openai.com",
+            "apiKey": "<OpenAI Key>"
+        },
+        {
+            "name": "fireworks.ai",
+            "apiKey": "<fireworks.ai Key>"
+        },
+        {
+            "name": "groq.com",
+            "apiKey": "<groq.com Key>>"
+        }
+    ],
+    "webSearch": {
+        "provider": "bing",
+        "apiKey": "<bing Key>"
+    }
+}
