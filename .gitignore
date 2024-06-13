@@ -166,3 +166,5 @@ cython_debug/
 
 .awareness.keys
 .avalanche.keys
+awarity_results/*
+!awarity_results/*.*
