@@ -12,18 +12,18 @@
             "args": "--model_name gpt-4-1106-preview --evaluator_model_name gpt-4o --context_lengths_min 112000 --context_lengths_max 127500 --context_lengths_num_intervals 10 --document_depth_percent_intervals 5 ${command:pickArgs}"
         },
         {
-            "name": "Debug awareness (gpt-4o)",
+            "name": "Debug awareness (gpt-4-medium)",
             "type": "debugpy",
             "request": "launch",
             "module": "needlehaystack.run",
-            "args": "--provider awareness --model_name gpt-4o --evaluator_model_name gpt-4o --context_lengths_min 112000 --context_lengths_max 127500 --context_lengths_num_intervals 10 --document_depth_percent_intervals 5 ${command:pickArgs}"
+            "args": "--provider awareness --model_name gpt-4-medium --evaluator_model_name gpt-4o --context_lengths_min 1000 --context_lengths_max 10000 --context_lengths_num_intervals 5 --document_depth_percent_intervals 3 ${command:pickArgs}"
         },
         {
-            "name": "Debug awareness single call",
+            "name": "Debug awareness single call (gpt-4-medium)",
             "type": "debugpy",
             "request": "launch",
             "module": "needlehaystack.run",
-            "args": "--provider awareness --model_name gpt-4o --evaluator_model_name gpt-4o --document_depth_percents [50] --context_lengths [2000]"
+            "args": "--provider awareness --model_name gpt-4-medium --evaluator_model_name gpt-4o --document_depth_percents [50] --context_lengths [2000]"
         },
         {
             "name": "Debug openai single call (gpt-4o)",

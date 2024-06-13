@@ -59,6 +59,13 @@ See `CreateVizFromLLMTesting.ipynb` to create visualizations. Explainer video: h
         awareness query "which one would I use to reason over a users query?" --uri \source\awarity\awareness\packages\awareness-core --create-context --context context.txt
         ```
 
+### Test Run Results
+Previous run results can be found in ./awarity_results/. When the tool is run for non-Awareness models, contexts end up in ./contexts/ and results end up in ./results/. I've manually moved these to ./awarity_results since their existence in the default location can affect the tests (a test will be skipped if a previous result with the same parameters is found in the results directory).
+
+For Awareness CLI contexts and tool outputs, these each automatically go to ./awarity_results/awareness/contexts/ and ./awarity_results/awareness/outputs/, respectively. Results from ./results/ still need to be manually copied over to ./awarity_results/awareness/results/ for archiving.
+
+NOTE: the awarity_results directory has become too large to check-in to GitHub. They've been stored in our shared Engineering gdrive here: https://drive.google.com/drive/folders/1EXbrK_ZEzIkH3dC7cDo-z01KLxkH4wnk?usp=drive_link
+
 ### GitHub Project Tracking
 
 See https://github.com/orgs/Aspen-AI/projects/6
