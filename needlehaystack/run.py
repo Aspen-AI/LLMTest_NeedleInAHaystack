@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from jsonargparse import CLI
 
 from . import LLMNeedleHaystackTester, LLMMultiNeedleHaystackTester
-from .evaluators import Evaluator, LangSmithEvaluator, OpenAIEvaluator
+from .evaluators import Evaluator, LangSmithEvaluator, OpenAIEvaluator, PasswordCountEvaluator
 from .providers import Anthropic, ModelProvider, OpenAI, Cohere, AwarenessCLI
 
 load_dotenv()
@@ -84,6 +84,10 @@ def get_evaluator(args: CommandArgs) -> Evaluator:
         ValueError: If the specified evaluator is not supported.
     """
     match args.evaluator.lower():
+        case "password_counter":
+            return PasswordCountEvaluator(model_name=args.evaluator_model_name,
+                                   question_asked=args.retrieval_question,
+                                   true_answer=args.needle)
         case "openai":
             return OpenAIEvaluator(model_name=args.evaluator_model_name,
                                    question_asked=args.retrieval_question,

@@ -5,20 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "SINGLE-NEEDLE: Debug openai range of tests (gpt-4-1106-preview)",
-            "type": "debugpy",
-            "request": "launch",
-            "module": "needlehaystack.run",
-            "args": "--provider openai --model_name gpt-4-1106-preview --evaluator_model_name gpt-4o --context_lengths_min 1000 --context_lengths_max 10000 --context_lengths_num_intervals 5 --document_depth_percent_intervals 3 ${command:pickArgs}"
-        },
-        {
-            "name": "SINGLE-NEEDLE: Debug awareness range of tests (gpt-4-medium)",
-            "type": "debugpy",
-            "request": "launch",
-            "module": "needlehaystack.run",
-            "args": "--provider awareness --model_name gpt-4-medium --evaluator_model_name gpt-4o --context_lengths_min 1000 --context_lengths_max 10000 --context_lengths_num_intervals 5 --document_depth_percent_intervals 3 ${command:pickArgs}"
-        },
-        {
             "name": "SINGLE-NEEDLE: Debug openai single call (gpt-4o)",
             "type": "debugpy",
             "request": "launch",
@@ -33,6 +19,20 @@
             "args": "--provider awareness --model_name gpt-4-medium --evaluator_model_name gpt-4o --document_depth_percents [50] --context_lengths [2000]"
         },
         {
+            "name": "SINGLE-NEEDLE: Debug openai range of calls (gpt-4-1106-preview)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": "--provider openai --model_name gpt-4-1106-preview --evaluator_model_name gpt-4o --context_lengths_min 1000 --context_lengths_max 10000 --context_lengths_num_intervals 5 --document_depth_percent_intervals 3 ${command:pickArgs}"
+        },
+        {
+            "name": "SINGLE-NEEDLE: Debug awareness range of calls (gpt-4-medium)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": "--provider awareness --model_name gpt-4-medium --evaluator_model_name gpt-4o --context_lengths_min 1000 --context_lengths_max 10000 --context_lengths_num_intervals 5 --document_depth_percent_intervals 3 ${command:pickArgs}"
+        },
+        {
             "name": "MULTI-NEEDLE: Debug openai single call (gpt-4o)",
             "type": "debugpy",
             "request": "launch",
@@ -40,6 +40,8 @@
             "args": [
                 "--provider=openai",
                 "--model_name=gpt-4o",
+                "--document_depth_percents=[50]",
+                "--context_lengths=[2000]",
                 "--config=.vscode/multi-config.passwords.json"
             ],
         },
@@ -51,6 +53,38 @@
             "args": [
                 "--provider=awareness",
                 "--model_name=gpt-4-medium",
+                "--document_depth_percents=[50]",
+                "--context_lengths=[2000]",
+                "--config=.vscode/multi-config.passwords.json"
+            ],
+        },
+        {
+            "name": "MULTI-NEEDLE: Debug openai range of calls (gpt-4o)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": [
+                "--provider=openai",
+                "--model_name=gpt-4o",
+                "--context_lengths_min=112000",
+                "--context_lengths_max=120000",
+                "--context_lengths_num_intervals=5",
+                "--document_depth_percent_intervals=3",
+                "--config=.vscode/multi-config.passwords.json"
+            ],
+        },
+        {
+            "name": "MULTI-NEEDLE: Debug awareness range of calls (gpt-4-medium)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": [
+                "--provider=awareness",
+                "--model_name=gpt-4-medium",
+                "--context_lengths_min=112000",
+                "--context_lengths_max=120000",
+                "--context_lengths_num_intervals=5",
+                "--document_depth_percent_intervals=3",
                 "--config=.vscode/multi-config.passwords.json"
             ],
         },
