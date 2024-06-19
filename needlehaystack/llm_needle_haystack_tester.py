@@ -150,8 +150,10 @@ class LLMNeedleHaystackTester:
 
         test_start_time = time.time()
 
+        context_file_location = f'{self.model_name.replace(".", "_")}_len_{context_length}_depth_{int(depth_percent*100)}'
+
         # Go see if the model can answer the question to pull out your random fact
-        response = await self.model_to_test.evaluate_model(prompt)
+        response = await self.model_to_test.evaluate_model(prompt, context_file_location)
 
         test_end_time = time.time()
         test_elapsed_time = test_end_time - test_start_time
@@ -182,7 +184,6 @@ class LLMNeedleHaystackTester:
             print (f"Score: {score}")
             print (f"Response: {response}\n")
 
-        context_file_location = f'{self.model_name.replace(".", "_")}_len_{context_length}_depth_{int(depth_percent*100)}'
 
         if self.save_contexts:
             results['file_name'] = context_file_location

@@ -47,7 +47,7 @@ class OpenAI(ModelProvider):
         self.model = AsyncOpenAI(api_key=self.api_key)
         self.tokenizer = tiktoken.encoding_for_model(self.model_name)
     
-    async def evaluate_model(self, prompt: str) -> str:
+    async def evaluate_model(self, prompt: str, context_file_location=None) -> str:
         """
         Evaluates a given prompt using the OpenAI model and retrieves the model's response.
 

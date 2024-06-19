@@ -59,12 +59,10 @@ See `launch.json` for other launch configurations.
 See .vscode/launch.json for examples of how to call the tool.
 
 ### Test Run Results
-Previous run results have been archived to ./awarity_results/.
+Previous non-Awareness run results have been manually archived to ./awarity_results/. When the tool is run for non-Awareness models, contexts are automatically stored in ./contexts/ and results are automatically stored in ./results/.
+The results directory acts as a sort of cache in that if the script finds a prior result there, it'll use that instead of making a call to the model. So after test runs, I'll move results to ./awarity_results/ since their existence in the default location can affect future tests.
 
-When the tool is run for non-Awareness models, contexts are automatically stored in ./contexts/ and results are automatically stored in ./results/. The results directory acts as a sort of cache in that if the script finds a prior result
-there, it'll use that instead of making a call to the model. So after test runs, I'll move results to ./awarity_results/ since their existence in the default location can affect future tests.
-
-For Awareness CLI contexts and tool outputs, these each automatically go to ./awarity_results/awareness/contexts/ and ./awarity_results/awareness/outputs/, respectively. Results from ./results/ still need to be manually copied over to ./awarity_results/awareness/results/ for archiving.
+For Awareness CLI contexts and tool outputs, these each automatically go to ./awarity_results/[RUN_METADATA]/contexts/ and ./awarity_results/[RUN_METADATA]/outputs/, respectively (where [RUN_METADATA] is awareness_[MODEL]_len[VALUE(S)]_depth[VALUE(S)][SINGLE|MULTI]-[datetime]). Results from ./results/ still need to be manually copied over to ./awarity_results/[RUN_METADATA]/results/ for archiving.
 
 IF YOU'RE NOT SEEING THE EVALUATOR GETTING INVOKED: check the ./results/ directory and make sure it's clear!
 

@@ -179,8 +179,11 @@ class LLMMultiNeedleHaystackTester(LLMNeedleHaystackTester):
             print("EVALUATOR: OpenAI Model")
             # Prepare your message to send to the model you're going to evaluate
             prompt = self.model_to_test.generate_prompt(context, self.retrieval_question)
+
+            context_file_location = f'{self.model_name.replace(".", "_")}_len_{context_length}_depth_{int(depth_percent*100)}'
+
             # Go see if the model can answer the question to pull out your random fact
-            response = await self.model_to_test.evaluate_model(prompt)
+            response = await self.model_to_test.evaluate_model(prompt, context_file_location)
             # Compare the reponse to the actual needle you placed
             score = self.evaluator.evaluate_response(response)
 
@@ -209,8 +212,6 @@ class LLMMultiNeedleHaystackTester(LLMNeedleHaystackTester):
                 print (f"Depth: {depth_percent}%")
                 print (f"Score: {score}")
                 print (f"Response: {response}\n")
-
-            context_file_location = f'{self.model_name.replace(".", "_")}_len_{context_length}_depth_{int(depth_percent*100)}'
 
             if self.save_contexts:
                 results['file_name'] = context_file_location

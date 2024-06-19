@@ -44,7 +44,7 @@ class Anthropic(ModelProvider):
         with open(resource_path, 'r') as file:
             self.prompt_structure = file.read()
 
-    async def evaluate_model(self, prompt: str) -> str:
+    async def evaluate_model(self, prompt: str, context_file_location=None) -> str:
         response = await self.model.completions.create(
             model=self.model_name,
             prompt=prompt,
