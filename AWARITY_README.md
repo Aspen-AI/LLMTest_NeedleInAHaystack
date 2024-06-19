@@ -21,10 +21,6 @@ The executable 'needlehaystack.run_test' is now available to run from the comman
 
 See `launch.json` for other launch configurations.
 
-### Visualizations
-
-See `CreateVizFromLLMTesting.ipynb` to create visualizations. Explainer video: https://twitter.com/GregKamradt/status/1729573848893579488
-
 ### AwarenessCLI Install
 
 1. You must be a member of the Awarity NPM organization first. Create an NPM account, if necessary, and ping Steve for access.
@@ -59,12 +55,26 @@ See `CreateVizFromLLMTesting.ipynb` to create visualizations. Explainer video: h
         awareness query "which one would I use to reason over a users query?" --uri \source\awarity\awareness\packages\awareness-core --create-context --context context.txt
         ```
 
+### Test Configuration
+See .vscode/launch.json for examples of how to call the tool.
+
 ### Test Run Results
-Previous run results can be found in ./awarity_results/. When the tool is run for non-Awareness models, contexts end up in ./contexts/ and results end up in ./results/. I've manually moved these to ./awarity_results since their existence in the default location can affect the tests (a test will be skipped if a previous result with the same parameters is found in the results directory).
+Previous run results have been archived to ./awarity_results/.
+
+When the tool is run for non-Awareness models, contexts are automatically stored in ./contexts/ and results are automatically stored in ./results/. The results directory acts as a sort of cache in that if the script finds a prior result
+there, it'll use that instead of making a call to the model. So after test runs, I'll move results to ./awarity_results/ since their existence in the default location can affect future tests.
 
 For Awareness CLI contexts and tool outputs, these each automatically go to ./awarity_results/awareness/contexts/ and ./awarity_results/awareness/outputs/, respectively. Results from ./results/ still need to be manually copied over to ./awarity_results/awareness/results/ for archiving.
 
+IF YOU'RE NOT SEEING THE EVALUATOR GETTING INVOKED: check the ./results/ directory and make sure it's clear!
+
 NOTE: the awarity_results directory has become too large to check-in to GitHub. They've been stored in our shared Engineering gdrive here: https://drive.google.com/drive/folders/1EXbrK_ZEzIkH3dC7cDo-z01KLxkH4wnk?usp=drive_link
+
+You can use ./awarity_results/examine_results.py to create a quick histogram of test scores. Launch ```python examine_results.py``` and enter the path to the results folder (like ```gpt-4-1106-preview_len112000-127500_depth0-100/results```)
+
+### Visualizations
+
+See `CreateVizFromLLMTesting.ipynb` to create visualizations. Explainer video: https://twitter.com/GregKamradt/status/1729573848893579488
 
 ### GitHub Project Tracking
 

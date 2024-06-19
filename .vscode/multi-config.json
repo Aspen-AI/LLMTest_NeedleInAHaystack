@@ -1,0 +1,13 @@
+{
+    "multi_needle": true,
+    "retrieval_question": "What are the three secret ingredients to build the perfect pizze?",
+    "needles": [
+        "Figs are one of the secret ingredients needed to build the perfect pizza.",
+        "Prosciutto is one of the secret ingredients needed to build the perfect pizza.",
+        "Goat cheese is one of the secret ingredients needed to build the perfect pizza."
+    ],
+    "needle": "Figs, prosciutto, and goat cheese are the three secret ingredients to build the perfect pizze",
+    "evaluator_model_name": "gpt-4o",
+    "document_depth_percents": [50],
+    "context_lengths": [2000]
+}
