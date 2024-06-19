@@ -40,7 +40,7 @@
             "args": [
                 "--provider=openai",
                 "--model_name=gpt-4o",
-                "--config=.vscode/multi-config.json"
+                "--config=.vscode/multi-config.passwords.json"
             ],
         },
         {
@@ -51,7 +51,7 @@
             "args": [
                 "--provider=awareness",
                 "--model_name=gpt-4-medium",
-                "--config=.vscode/multi-config.json"
+                "--config=.vscode/multi-config.passwords.json"
             ],
         },
         // {

@@ -84,7 +84,7 @@ class LLMMultiNeedleHaystackTester(LLMNeedleHaystackTester):
         # Insert needles at calculated points
         for needle in self.needles:
 
-            tokens_needle = self.model_to_test.encode_text_to_tokens(needle)
+            tokens_needle = self.model_to_test.encode_text_to_tokens(" " + needle + " ")
 
             if depth_percent == 100:
                 # If your depth percent is 100 (which means your needle is the last thing in the doc), throw it at the end
