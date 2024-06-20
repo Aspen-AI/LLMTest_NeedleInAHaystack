@@ -68,7 +68,7 @@ IF YOU'RE NOT SEEING THE EVALUATOR GETTING INVOKED: check the ./results/ directo
 
 NOTE: the awarity_results directory has become too large to check-in to GitHub. They've been stored in our shared Engineering gdrive here: https://drive.google.com/drive/folders/1EXbrK_ZEzIkH3dC7cDo-z01KLxkH4wnk?usp=drive_link
 
-You can use ./awarity_results/examine_results.py to create a quick histogram of test scores. Launch ```python examine_results.py``` and enter the path to the results folder (like ```gpt-4-1106-preview_len112000-127500_depth0-100/results```)
+You can use ./awarity_results/examine_results.py to create a quick histogram of test scores. Launch ```python examine_results.py``` and enter the path to the results folder (like ```keep/gpt-4-1106-preview_len112000-127500_depth0-100/results```)
 
 ### Visualizations
 
