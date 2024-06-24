@@ -75,12 +75,21 @@ class AwarenessCLI(ModelProvider):
         exit_code = self._call_awarenesscli(prompt[2]['content'], CONTEXT_URI, self.model_name)
         print(f"Command exited with code {exit_code}")
 
+        # Store the training.jsonl file
+        TRAINING_SRC_URI = "training.jsonl"
+        TRAINING_DEST_URI = f"{self.trainings_directory_uri}{context_file_location}_training.jsonl"
+        try:
+            shutil.move(TRAINING_SRC_URI, TRAINING_DEST_URI)
+            print(f"Training file moved from {TRAINING_SRC_URI} to {TRAINING_DEST_URI} successfully.")
+        except Exception as e:
+            print(f"Error: {e}")
+
         # Store the output.json file
         OUTPUT_SRC_URI = "output.json"
         OUTPUT_DEST_URI = f"{self.outputs_directory_uri}{context_file_location}_output.json"
         try:
             shutil.move(OUTPUT_SRC_URI, OUTPUT_DEST_URI)
-            print(f"File moved from {OUTPUT_SRC_URI} to {OUTPUT_DEST_URI} successfully.")
+            print(f"Output file moved from {OUTPUT_SRC_URI} to {OUTPUT_DEST_URI} successfully.")
         except Exception as e:
             print(f"Error: {e}")
 
@@ -142,9 +151,10 @@ class AwarenessCLI(ModelProvider):
         return self.tokenizer.decode(tokens[:context_length])
     
     def _call_awarenesscli(self, question, context_uri, model_name):
-        COMMAND = f'awareness --output json query "{question}" --uri {context_uri} --model {model_name}'
+        COMMAND = f'awareness --create-training --output json query "{question}" --uri {context_uri} --model {model_name}'
         try:
             # Run the command
+            print(f"Running: {COMMAND}")
             result = subprocess.run(COMMAND, shell=True, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
             
             # Print the output and error (if any)
@@ -186,6 +196,12 @@ class AwarenessCLI(ModelProvider):
             print(f"Creating contexts directory: {contexts_directory_uri}")
             os.makedirs(contexts_directory_uri)
 
+        # Create the trainings subfolder
+        trainings_directory_uri = f"{run_result_directory_uri}trainings/"
+        if not os.path.exists(trainings_directory_uri):
+            print(f"Creating trainings directory: {trainings_directory_uri}")
+            os.makedirs(trainings_directory_uri)
+
         # Create the outputs subfolder
         outputs_directory_uri = f"{run_result_directory_uri}outputs/"
         if not os.path.exists(outputs_directory_uri):
@@ -194,6 +210,7 @@ class AwarenessCLI(ModelProvider):
 
         # Store these values for later use
         self.contexts_directory_uri = contexts_directory_uri
+        self.trainings_directory_uri = trainings_directory_uri
         self.outputs_directory_uri = outputs_directory_uri
     
     # NOTE: not impl
