@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name":"Python Debugger: Current File",
+            "type":"debugpy",
+            "request":"launch",
+            "program":"${file}",
+            "console":"integratedTerminal"
+        },
+        {
             "name": "SINGLE-NEEDLE: Debug openai single call (gpt-4o)",
             "type": "debugpy",
             "request": "launch",
@@ -42,7 +49,7 @@
                 "--model_name=gpt-4o",
                 "--document_depth_percents=[50]",
                 "--context_lengths=[2000]",
-                "--config=.vscode/multi-config.passwords2.json"
+                "--config=.vscode/multi-config.passwords3.json"
             ],
         },
         {
@@ -55,7 +62,7 @@
                 "--model_name=gpt-4-medium",
                 "--document_depth_percents=[50]",
                 "--context_lengths=[2000]",
-                "--config=.vscode/multi-config.passwords2.json"
+                "--config=.vscode/multi-config.passwords3.json"
             ],
         },
         {
@@ -70,7 +77,7 @@
                 "--context_lengths_max=120000",
                 "--context_lengths_num_intervals=5",
                 "--document_depth_percent_intervals=3",
-                "--config=.vscode/multi-config.passwords2.json"
+                "--config=.vscode/multi-config.passwords3.json"
             ],
         },
         {
@@ -85,7 +92,7 @@
                 "--context_lengths_max=120000",
                 "--context_lengths_num_intervals=5",
                 "--document_depth_percent_intervals=3",
-                "--config=.vscode/multi-config.passwords2.json"
+                "--config=.vscode/multi-config.passwords3.json"
             ],
         },
         // {
