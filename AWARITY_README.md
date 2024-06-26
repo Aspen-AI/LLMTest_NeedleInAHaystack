@@ -68,11 +68,11 @@ IF YOU'RE NOT SEEING THE EVALUATOR GETTING INVOKED: check the ./results/ directo
 
 NOTE: the awarity_results directory has become too large to check-in to GitHub. They've been stored in our shared Engineering gdrive here: https://drive.google.com/drive/folders/1EXbrK_ZEzIkH3dC7cDo-z01KLxkH4wnk?usp=drive_link
 
-You can use ./awarity_results/examine_results.py to create a quick histogram of test scores. Launch ```python examine_results.py``` and enter the path to the results folder (like ```keep/gpt-4-1106-preview_len112000-127500_depth0-100/results```)
-
 ### Visualizations
 
-See `CreateVizFromLLMTesting.ipynb` to create visualizations. Explainer video: https://twitter.com/GregKamradt/status/1729573848893579488
+You can use ./awarity_results/create_histogram.py to create a quick histogram of test scores. Launch ```python create_histogram.py``` and enter the path to the results folder (like ```keep/gpt-4-1106-preview_len112000-127500_depth0-100/results```)
+
+Similarly, you can use ./awarity_results/create_heatmap.py to create a heatmap showing the location of test scores in the space of needle context depth vs. context length. Launch ```python create_heatmap.py``` and enter the path to the results folder (like ```keep/gpt-4-1106-preview_len112000-127500_depth0-100/results```). This code was copied and modified from `CreateVizFromLLMTesting.ipynb`, which the original author used to create visualizations (explainer video: https://twitter.com/GregKamradt/status/1729573848893579488).
 
 ### GitHub Project Tracking
 
