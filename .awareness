@@ -2,8 +2,51 @@
     "clusters": [
         {
             "name": "openai.com",
-            "type": "OpenAI",
             "models": [
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "best",
+                    "model": "gpt-4o",
+                    "tokenizer": "clk100",
+                    "max_input_tokens": 6000,
+                    "max_tokens": 1500,
+                    "seed": 100,
+                    "tags": []
+                },
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "best:long",
+                    "model": "gpt-4o",
+                    "tokenizer": "clk100",
+                    "max_input_tokens": 24000,
+                    "max_tokens": 4000,
+                    "seed": 100,
+                    "tags": []
+                },
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "gpt-4o",
+                    "model": "gpt-4o",
+                    "tokenizer": "clk100",
+                    "max_input_tokens": 6000,
+                    "max_tokens": 1500,
+                    "seed": 100,
+                    "tags": []
+                },
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "gpt-4o:max",
+                    "model": "gpt-4o",
+                    "tokenizer": "clk100",
+                    "max_input_tokens": 120000,
+                    "max_tokens": 4000,
+                    "seed": 100,
+                    "tags": []
+                },
                 {
                     "type": "chat",
                     "client": "openai",
@@ -13,40 +56,7 @@
                     "max_input_tokens": 6000,
                     "max_tokens": 1500,
                     "seed": 100,
-                    "tags": ["repairable"]
-                },
-                {
-                    "type": "chat",
-                    "client": "openai",
-                    "alias": "gpt-4",
-                    "model": "gpt-4o",
-                    "tokenizer": "clk100",
-                    "max_input_tokens": 6000,
-                    "max_tokens": 1500,
-                    "seed": 100,
-                    "tags": ["repairable"]
-                },
-                {
-                    "type": "chat",
-                    "client": "openai",
-                    "alias": "gpt-4-medium",
-                    "model": "gpt-4o",
-                    "tokenizer": "clk100",
-                    "max_input_tokens": 24000,
-                    "max_tokens": 4000,
-                    "seed": 100,
-                    "tags": ["repairable"]
-                },
-                {
-                    "type": "chat",
-                    "client": "openai",
-                    "alias": "gpt-4-large",
-                    "model": "gpt-4o",
-                    "tokenizer": "clk100",
-                    "max_input_tokens": 60000,
-                    "max_tokens": 20000,
-                    "seed": 100,
-                    "tags": ["repairable"]
+                    "tags": []
                 },
                 {
                     "type": "embeddings",
@@ -85,8 +95,78 @@
         },
         {
             "name": "fireworks.ai",
-            "type": "OpenAI",
             "models": [
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "good",
+                    "model": "accounts/fireworks/models/mixtral-8x7b-instruct",
+                    "tokenizer": "llama",
+                    "max_input_tokens": 6000,
+                    "max_tokens": 1500,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
+                },
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "good:long",
+                    "model": "accounts/fireworks/models/mixtral-8x7b-instruct",
+                    "tokenizer": "llama",
+                    "max_input_tokens": 24000,
+                    "max_tokens": 4000,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
+                },
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "better",
+                    "model": "accounts/fireworks/models/mixtral-8x22b-instruct",
+                    "tokenizer": "llama",
+                    "max_input_tokens": 6000,
+                    "max_tokens": 1500,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
+                },
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "better:long",
+                    "model": "accounts/fireworks/models/mixtral-8x22b-instruct",
+                    "tokenizer": "llama",
+                    "max_input_tokens": 24000,
+                    "max_tokens": 4000,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
+                },
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "writing",
+                    "model": "accounts/fireworks/models/mixtral-8x22b-instruct",
+                    "tokenizer": "llama",
+                    "max_input_tokens": 48000,
+                    "max_tokens": 12000,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
+                },
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "cleaning",
+                    "model": "accounts/fireworks/models/mixtral-8x22b-instruct",
+                    "tokenizer": "llama",
+                    "max_input_tokens": 3000,
+                    "max_tokens": 5,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
+                },
+                {
+                    "type": "chat",
+                    "client": "openai",
+                    "alias": "llama-3-70b-instruct",
+                    "model": "accounts/fireworks/models/llama-v3-70b-instruct",
+                    "tokenizer": "llama",
+                    "max_input_tokens": 6000,
+                    "max_tokens": 1500,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"],
+                    "tags": ["repairable"]
+                },
                 {
                     "type": "chat",
                     "client": "openai",
@@ -102,27 +182,59 @@
             "endpoints": [
                 {
                     "url": "https://api.fireworks.ai/inference",
-                    "concurrency": 4
+                    "concurrency": 12
+                }
+            ],
+            "logRequests": false
+        },
+        {
+            "name": "google.com",
+            "models": [
+                {
+                    "type": "chat",
+                    "client": "google",
+                    "alias": "gemini-pro",
+                    "model": "gemini-1.5-pro-latest",
+                    "tokenizer": "google",
+                    "max_input_tokens": 6000,
+                    "max_tokens": 1500,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"],
+                    "tags": ["repairable"]
+                },
+                {
+                    "type": "chat",
+                    "client": "google",
+                    "alias": "gemini-pro:long",
+                    "model": "gemini-1.5-pro-latest",
+                    "tokenizer": "google",
+                    "max_input_tokens": 24000,
+                    "max_tokens": 4000,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"],
+                    "tags": ["repairable"]
+                },
+                {
+                    "type": "chat",
+                    "client": "google",
+                    "alias": "gemini-pro:max",
+                    "model": "gemini-1.5-pro-latest",
+                    "tokenizer": "google",
+                    "max_input_tokens": 120000,
+                    "max_tokens": 8000,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"],
+                    "tags": ["repairable"]
+                }
+            ],
+            "endpoints": [
+                {
+                    "url": "https://generativelanguage.googleapis.com",
+                    "concurrency": 1
                 }
             ],
             "logRequests": false
         },
         {
             "name": "groq.com",
-            "type": "OpenAI",
             "models": [
-                {
-                    "type": "chat",
-                    "client": "openai",
-                    "alias": "groq-llama-3-8b",
-                    "model": "llama3-8b-8192",
-                    "tokenizer": "llama",
-                    "max_input_tokens": 6000,
-                    "max_tokens": 1500,
-                    "seed": 100,
-                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"],
-                    "tags": ["repairable"]
-                },
                 {
                     "type": "chat",
                     "client": "openai",
@@ -132,20 +244,7 @@
                     "max_input_tokens": 6000,
                     "max_tokens": 1500,
                     "seed": 100,
-                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"],
-                    "tags": ["repairable"]
-                },
-                {
-                    "type": "chat",
-                    "client": "openai",
-                    "alias": "groq-mixtral-8x7b",
-                    "model": "mixtral-8x7b-32768",
-                    "tokenizer": "mistral",
-                    "max_input_tokens": 6000,
-                    "max_tokens": 1500,
-                    "seed": 100,
-                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"],
-                    "tags": ["repairable"]
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
                 }
             ],
             "endpoints": [
@@ -158,13 +257,66 @@
             "requestDelay": 30000
         },
         {
+            "name": "anthropic.com",
+            "models": [
+                {
+                    "type": "chat",
+                    "client": "anthropic",
+                    "alias": "sonnet",
+                    "model": "claude-3-5-sonnet-20240620",
+                    "tokenizer": "claude",
+                    "max_input_tokens": 6000,
+                    "max_tokens": 1500,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
+                },
+                {
+                    "type": "chat",
+                    "client": "anthropic",
+                    "alias": "sonnet:long",
+                    "model": "claude-3-5-sonnet-20240620",
+                    "tokenizer": "claude",
+                    "max_input_tokens": 24000,
+                    "max_tokens": 4000,
+                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
+                }
+            ],
+            "endpoints": [
+                {
+                    "url": "https://api.anthropic.com",
+                    "concurrency": 4
+                }
+            ],
+            "logRequests": false
+        },
+        {
+            "name": "deepseek.com",
+            "models": [
+                {
+                    "type": "chat",
+                    "client": "oss",
+                    "alias": "coding",
+                    "model": "deepseek-coder",
+                    "tokenizer": "llama",
+                    "max_input_tokens": 24000,
+                    "max_tokens": 4000,
+                    "top_p": 1.0
+                }
+            ],
+            "endpoints": [
+                {
+                    "url": "https://api.deepseek.com",
+                    "concurrency": 4
+                }
+            ],
+            "logRequests": false
+        },
+        {
             "name": "ARC-4090",
-            "type": "OpenAI",
             "models": [
                 {
                     "type": "chat",
                     "client": "openai",
-                    "alias": "synapse-small",
+                    "alias": "arc",
                     "model": "synapse-small",
                     "tokenizer": "llama",
                     "max_input_tokens": 6000,
@@ -199,5 +351,5 @@
         }
     ],
     "defaultEmbeddings": "text-embedding-3-small",
-    "defaultModel": "gpt-4"
+    "defaultModel": "better"
 }

@@ -69,7 +69,7 @@
         "csv": "md",
         "tsv": "md",
         "html": "md",
-        "pdf": "md",
+        "pdf": "txt",
         "doc": "md",
         "docx": "md",
         "ppt": "md",
