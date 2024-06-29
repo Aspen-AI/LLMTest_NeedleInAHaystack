@@ -55,7 +55,9 @@ def create_heatmap(folder_path):
         # annot=True,
         fmt="g",
         cmap=cmap,
-        cbar_kws={'label': 'Score'}
+        cbar_kws={'label': 'Score'},
+        vmin=1,  # Set the minimum value for the colormap
+        vmax=10  # Set the maximum value for the colormap
     )
 
     # More aesthetics
