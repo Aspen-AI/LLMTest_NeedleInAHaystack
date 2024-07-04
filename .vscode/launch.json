@@ -81,7 +81,7 @@
                 "--model_name=claude-3-5-sonnet-20240620",
                 "--document_depth_percents=[50]",
                 "--context_lengths=[2000]",
-                "--config=.vscode/multi-config.passwords3.json"
+                "--config=.vscode/multi-config.passwords4.json"
             ],
         },
         {
@@ -94,7 +94,7 @@
                 "--model_name=gpt-4o",
                 "--document_depth_percents=[50]",
                 "--context_lengths=[2000]",
-                "--config=.vscode/multi-config.passwords3.json"
+                "--config=.vscode/multi-config.passwords4.json"
             ],
         },
         {
@@ -107,7 +107,7 @@
                 "--model_name=gpt-4o",
                 "--document_depth_percents=[50]",
                 "--context_lengths=[2000]",
-                "--config=.vscode/multi-config.passwords3.json"
+                "--config=.vscode/multi-config.passwords4.json"
             ],
         },
         //-----------------------------------------------------------------------------------------------------------------------------
@@ -128,7 +128,7 @@
                 "--context_lengths_max=192000",
                 "--context_lengths_num_intervals=16",
                 "--document_depth_percent_intervals=15",
-                "--config=.vscode/multi-config.passwords3.json"
+                "--config=.vscode/multi-config.passwords4.json"
             ],
         },
         {
@@ -143,7 +143,7 @@
                 "--context_lengths_max=120000",
                 "--context_lengths_num_intervals=16",
                 "--document_depth_percent_intervals=15",
-                "--config=.vscode/multi-config.passwords3.json"
+                "--config=.vscode/multi-config.passwords4.json"
             ],
         },
         {
@@ -158,7 +158,7 @@
                 "--context_lengths_max=192000",
                 "--context_lengths_num_intervals=16",
                 "--document_depth_percent_intervals=15",
-                "--config=.vscode/multi-config.passwords3.json"
+                "--config=.vscode/multi-config.passwords4.json"
             ],
         },
         //=============================================================================================================================
