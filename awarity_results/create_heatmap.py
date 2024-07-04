@@ -8,7 +8,7 @@ import pandas as pd
 import json
 import glob
 
-def create_heatmap(folder_path):
+def create_heatmap(folder_path, title):
     # Using glob to find all json files in the directory
     json_files = glob.glob(f"{folder_path}/*.json")
 
@@ -60,8 +60,11 @@ def create_heatmap(folder_path):
         vmax=10  # Set the maximum value for the colormap
     )
 
+    mean_value = df['Score'].mean()
+
     # More aesthetics
-    plt.title(f'{folder_path}')  # Adds a title
+    #plt.title(f'{folder_path}')  # Adds a title
+    plt.title(f'{title}\n(average={mean_value:.2f})')
     plt.xlabel('Context Length')  # X-axis label
     plt.ylabel('Depth Percent')  # Y-axis label
     plt.xticks(rotation=45)  # Rotates the x-axis labels to prevent overlap
@@ -72,5 +75,7 @@ def create_heatmap(folder_path):
     plt.show()
 
 if __name__ == "__main__":
+    title = input("Enter the title (default: Heatmap of Scores): ")
+    title = "Heatmap of Scores" if title == "" else title
     directory_path = input("Enter the directory path containing JSON result files: ")
-    create_heatmap(directory_path)
+    create_heatmap(directory_path, title)
