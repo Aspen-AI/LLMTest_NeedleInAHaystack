@@ -147,15 +147,15 @@
             ],
         },
         {
-            "name": "MULTI-NEEDLE: Debug awareness range of calls (gpt-4o)",
+            "name": "MULTI-NEEDLE: Debug awareness range of calls (claude-3-5-sonnet-20240620)",
             "type": "debugpy",
             "request": "launch",
             "module": "needlehaystack.run",
             "args": [
                 "--provider=awareness",
-                "--model_name=gpt-4o",
+                "--model_name=sonnet",
                 "--context_lengths_min=12000",
-                "--context_lengths_max=120000",
+                "--context_lengths_max=192000",
                 "--context_lengths_num_intervals=16",
                 "--document_depth_percent_intervals=15",
                 "--config=.vscode/multi-config.passwords3.json"
