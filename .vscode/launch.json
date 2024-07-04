@@ -11,6 +11,19 @@
             "program":"${file}",
             "console":"integratedTerminal"
         },
+        //=============================================================================================================================
+        {
+            "name": "====================================================",
+            "type": "debugpy",
+            "request": "launch",
+        },
+        {
+            "name": "SINGLE-NEEDLE: Debug anthropic single call (claude-3-5-sonnet-20240620)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": "--provider anthropic --model_name claude-3-5-sonnet-20240620 --evaluator_model_name gpt-4o --document_depth_percents [50] --context_lengths [2000]"
+        },
         {
             "name": "SINGLE-NEEDLE: Debug openai single call (gpt-4o)",
             "type": "debugpy",
@@ -25,6 +38,19 @@
             "module": "needlehaystack.run",
             "args": "--provider awareness --model_name gpt-4o --evaluator_model_name gpt-4o --document_depth_percents [50] --context_lengths [2000]"
         },
+        //-----------------------------------------------------------------------------------------------------------------------------
+        {
+            "name": "-----------------------------------------------------------------------------------------",
+            "type": "debugpy",
+            "request": "launch",
+        },
+        {
+            "name": "SINGLE-NEEDLE: Debug anthropic range of calls (claude-3-5-sonnet-20240620)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": "--provider anthropic --model_name claude-3-5-sonnet-20240620 --evaluator_model_name gpt-4o --context_lengths_min 140000 --context_lengths_max 190000 --context_lengths_num_intervals 5 --document_depth_percent_intervals 3 ${command:pickArgs}"
+        },
         {
             "name": "SINGLE-NEEDLE: Debug openai range of calls (gpt-4-1106-preview)",
             "type": "debugpy",
@@ -38,6 +64,25 @@
             "request": "launch",
             "module": "needlehaystack.run",
             "args": "--provider awareness --model_name gpt-4o --evaluator_model_name gpt-4o --context_lengths_min 1000 --context_lengths_max 10000 --context_lengths_num_intervals 5 --document_depth_percent_intervals 3 ${command:pickArgs}"
+        },
+        //=============================================================================================================================
+        {
+            "name": "====================================================",
+            "type": "debugpy",
+            "request": "launch",
+        },
+        {
+            "name": "MULTI-NEEDLE: Debug anthropic single call (claude-3-5-sonnet-20240620)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": [
+                "--provider=anthropic",
+                "--model_name=claude-3-5-sonnet-20240620",
+                "--document_depth_percents=[50]",
+                "--context_lengths=[2000]",
+                "--config=.vscode/multi-config.passwords3.json"
+            ],
         },
         {
             "name": "MULTI-NEEDLE: Debug openai single call (gpt-4o)",
@@ -62,6 +107,27 @@
                 "--model_name=gpt-4o",
                 "--document_depth_percents=[50]",
                 "--context_lengths=[2000]",
+                "--config=.vscode/multi-config.passwords3.json"
+            ],
+        },
+        //-----------------------------------------------------------------------------------------------------------------------------
+        {
+            "name": "-----------------------------------------------------------------------------------------",
+            "type": "debugpy",
+            "request": "launch",
+        },
+        {
+            "name": "MULTI-NEEDLE: Debug anthropic range of calls (claude-3-5-sonnet-20240620)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "needlehaystack.run",
+            "args": [
+                "--provider=anthropic",
+                "--model_name=claude-3-5-sonnet-20240620",
+                "--context_lengths_min=12000",
+                "--context_lengths_max=192000",
+                "--context_lengths_num_intervals=16",
+                "--document_depth_percent_intervals=15",
                 "--config=.vscode/multi-config.passwords3.json"
             ],
         },
@@ -95,19 +161,13 @@
                 "--config=.vscode/multi-config.passwords3.json"
             ],
         },
+        //=============================================================================================================================
         // {
         //     "name": "Debug openai single call (gpt-3.5-turbo-0125)",
         //     "type": "debugpy",
         //     "request": "launch",
         //     "module": "needlehaystack.run",
         //     "args": "--provider openai --model_name gpt-3.5-turbo-0125 --document_depth_percents [50] --context_lengths [2000]"
-        // },
-        // {
-        //     "name": "Debug antropic single call",
-        //     "type": "debugpy",
-        //     "request": "launch",
-        //     "module": "needlehaystack.run",
-        //     "args": "--provider anthropic --model_name claude-2.1 --document_depth_percents [50] --context_lengths [2000]"
         // },
         // {
         //     "name": "Debug cohere single call",

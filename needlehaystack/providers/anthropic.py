@@ -45,16 +45,44 @@ class Anthropic(ModelProvider):
             self.prompt_structure = file.read()
 
     async def evaluate_model(self, prompt: str, context_file_location=None) -> str:
-        response = await self.model.completions.create(
+        # response = await self.model.completions.create(
+        #     model=self.model_name,
+        #     prompt=prompt,
+        #     **self.model_kwargs)
+        # return response.completion
+        response = await self.model.messages.create(
             model=self.model_name,
-            prompt=prompt,
-            **self.model_kwargs)
-        return response.completion
+            max_tokens=2000,    # NOTE: max for claude-3 is 4096
+            temperature=0.0,    # NOTE: Defaults to 1.0. Ranges from 0.0 to 1.0. Use temperature closer to 0.0 for analytical / multiple choice, and closer to 1.0 for creative and generative tasks.
+            system="You are a helpful AI bot that answers questions for a user. Keep your response short and direct",
+            messages=prompt
+        )
+        return response.content[0].text
 
     def generate_prompt(self, context: str, retrieval_question: str) -> str | list[dict[str, str]]:
-        return self.prompt_structure.format(
-            retrieval_question=retrieval_question,
-            context=context)
+        # return self.prompt_structure.format(
+        #     retrieval_question=retrieval_question,
+        #     context=context)
+        """
+        Generates a structured prompt for querying the model, based on a given context and retrieval question.
+
+        Args:
+            context (str): The context or background information relevant to the question.
+            retrieval_question (str): The specific question to be answered by the model.
+
+        Returns:
+            list[dict[str, str]]: A list of dictionaries representing the structured prompt, including roles and content for system and user messages.
+        """
+        return [
+            {
+                "role": "user",
+                "content": f'<documents><document index="1"><document_content>{context}</document_content></document></documents>\n\n{retrieval_question}\n\nDo not give information outside the document or repeat your findings'
+            },
+            {
+                "role": "assistant",
+                "content": "Based on the instructions, here is the list of passwords found in the document:"
+            }
+        ]
     
     def encode_text_to_tokens(self, text: str) -> list[int]:
         return self.tokenizer.encode(text).ids
