@@ -9,17 +9,6 @@
                     "alias": "best",
                     "model": "gpt-4o",
                     "tokenizer": "clk100",
-                    "max_input_tokens": 6000,
-                    "max_tokens": 1500,
-                    "seed": 100,
-                    "tags": []
-                },
-                {
-                    "type": "chat",
-                    "client": "openai",
-                    "alias": "best:long",
-                    "model": "gpt-4o",
-                    "tokenizer": "clk100",
                     "max_input_tokens": 24000,
                     "max_tokens": 4000,
                     "seed": 100,
@@ -102,16 +91,6 @@
                     "alias": "good",
                     "model": "accounts/fireworks/models/mixtral-8x7b-instruct",
                     "tokenizer": "llama",
-                    "max_input_tokens": 6000,
-                    "max_tokens": 1500,
-                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
-                },
-                {
-                    "type": "chat",
-                    "client": "openai",
-                    "alias": "good:long",
-                    "model": "accounts/fireworks/models/mixtral-8x7b-instruct",
-                    "tokenizer": "llama",
                     "max_input_tokens": 24000,
                     "max_tokens": 4000,
                     "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
@@ -122,8 +101,8 @@
                     "alias": "better",
                     "model": "accounts/fireworks/models/mixtral-8x22b-instruct",
                     "tokenizer": "llama",
-                    "max_input_tokens": 6000,
-                    "max_tokens": 1500,
+                    "max_input_tokens": 24000,
+                    "max_tokens": 4000,
                     "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
                 },
                 {
@@ -132,28 +111,8 @@
                     "alias": "better:long",
                     "model": "accounts/fireworks/models/mixtral-8x22b-instruct",
                     "tokenizer": "llama",
-                    "max_input_tokens": 24000,
-                    "max_tokens": 4000,
-                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
-                },
-                {
-                    "type": "chat",
-                    "client": "openai",
-                    "alias": "writing",
-                    "model": "accounts/fireworks/models/mixtral-8x22b-instruct",
-                    "tokenizer": "llama",
                     "max_input_tokens": 48000,
                     "max_tokens": 12000,
-                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
-                },
-                {
-                    "type": "chat",
-                    "client": "openai",
-                    "alias": "cleaning",
-                    "model": "accounts/fireworks/models/mixtral-8x22b-instruct",
-                    "tokenizer": "llama",
-                    "max_input_tokens": 3000,
-                    "max_tokens": 5,
                     "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"]
                 },
                 {
@@ -194,17 +153,6 @@
                     "type": "chat",
                     "client": "google",
                     "alias": "gemini-pro",
-                    "model": "gemini-1.5-pro-latest",
-                    "tokenizer": "google",
-                    "max_input_tokens": 6000,
-                    "max_tokens": 1500,
-                    "stop": ["\n<QUESTION>", "\n<INSTRUCTIONS>", "\n<FACTS>"],
-                    "tags": ["repairable"]
-                },
-                {
-                    "type": "chat",
-                    "client": "google",
-                    "alias": "gemini-pro:long",
                     "model": "gemini-1.5-pro-latest",
                     "tokenizer": "google",
                     "max_input_tokens": 24000,
@@ -263,15 +211,6 @@
                     "type": "chat",
                     "client": "anthropic",
                     "alias": "sonnet",
-                    "model": "claude-3-5-sonnet-20240620",
-                    "tokenizer": "claude",
-                    "max_input_tokens": 6000,
-                    "max_tokens": 1500
-                },
-                {
-                    "type": "chat",
-                    "client": "anthropic",
-                    "alias": "sonnet:long",
                     "model": "claude-3-5-sonnet-20240620",
                     "tokenizer": "claude",
                     "max_input_tokens": 24000,
