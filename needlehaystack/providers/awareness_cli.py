@@ -6,6 +6,8 @@ import tiktoken
 import json
 from datetime import datetime
 
+#from anthropic import Anthropic as AnthropicModel
+
 from .model import ModelProvider
 
 BASE_RUN_RESULT_DIRECTORY_URI = f"awarity_results/"
@@ -51,8 +53,9 @@ class AwarenessCLI(ModelProvider):
         self.model = None
         #self.model = AsyncOpenAI(api_key=self.api_key)
 
-        # NOTE: will return cl100k_base for model == gpt-4, which is the encoding Steve recommends for Awareness
-        self.tokenizer = tiktoken.encoding_for_model("gpt-4")
+        self.tokenizer = tiktoken.encoding_for_model("gpt-4")  # NOTE: will return cl100k_base for model == gpt-4, which is the encoding Steve recommends for Awareness
+        #self.tokenizer = AnthropicModel().get_tokenizer()   # BPE
+
         #self.tokenizer = tiktoken.encoding_for_model(self.model_name)
     
     async def evaluate_model(self, prompt: str, context_file_location) -> str:
