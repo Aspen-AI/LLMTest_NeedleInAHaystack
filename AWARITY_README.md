@@ -11,7 +11,15 @@ Overview video: https://www.youtube.com/watch?v=KwRRuiCCdmc. See `README.md` for
 pip install -e .
 ```
 
+NOTE: the package does install correctly with python 3.12. Use version 3.11 instead in the venv.
+
 The package `needlehaystack` is now available for import in your test cases. Develop, make changes and test locally.
+
+NOTE 2: execution requires the langchain-community package, installed as below: 
+
+```zsh
+pip install -U langchain-community
+```
 
 The executable 'needlehaystack.run_test' is now available to run from the command-line:
 
@@ -22,6 +30,14 @@ The executable 'needlehaystack.run_test' is now available to run from the comman
 See `launch.json` for other launch configurations.
 
 ### AwarenessCLI Install
+
+NOTE 3, as of July 24, 2024:
+
+awareness currently prints a warning each time when executed.
+```zsh
+(node:98995) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+```
 
 1. You must be a member of the Awarity NPM organization first. Create an NPM account, if necessary, and ping Steve for access.
 2. Once you have access, create a classic NPM access token here: https://www.npmjs.com/settings/[YOUR_NPM_USERNAME]/tokens.
