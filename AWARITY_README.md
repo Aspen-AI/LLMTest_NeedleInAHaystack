@@ -11,7 +11,7 @@ Overview video: https://www.youtube.com/watch?v=KwRRuiCCdmc. See `README.md` for
 pip install -e .
 ```
 
-**NOTE 1:** the package does install correctly with python 3.12. Use version 3.11 instead in the venv.
+**NOTE 1:** the package does NOT install correctly with python 3.12. Use version 3.11 instead in the venv.
 
 The package `needlehaystack` is now available for import in your test cases. Develop, make changes and test locally.
 

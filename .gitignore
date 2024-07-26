@@ -168,3 +168,5 @@ cython_debug/
 .avalanche.keys
 awarity_results/*
 !awarity_results/*.*
+.\#AWARITY_README.md
+\#AWARITY_README.md\#
