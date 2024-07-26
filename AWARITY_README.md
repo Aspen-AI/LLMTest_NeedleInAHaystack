@@ -11,11 +11,11 @@ Overview video: https://www.youtube.com/watch?v=KwRRuiCCdmc. See `README.md` for
 pip install -e .
 ```
 
-NOTE: the package does install correctly with python 3.12. Use version 3.11 instead in the venv.
+##NOTE: the package does install correctly with python 3.12. Use version 3.11 instead in the venv.
 
 The package `needlehaystack` is now available for import in your test cases. Develop, make changes and test locally.
 
-NOTE 2: execution requires the langchain-community package, installed as below: 
+##NOTE 2: execution requires the langchain-community package, installed as below: 
 
 ```zsh
 pip install -U langchain-community
@@ -31,7 +31,7 @@ See `launch.json` for other launch configurations.
 
 ### AwarenessCLI Install
 
-NOTE 3, as of July 24, 2024:
+##NOTE 3, as of July 24, 2024:
 
 awareness currently prints a warning each time when executed.
 ```zsh
