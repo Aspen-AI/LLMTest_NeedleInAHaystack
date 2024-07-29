@@ -1,5 +1,31 @@
 Overview video: https://www.youtube.com/watch?v=KwRRuiCCdmc. See `README.md` for more general info. Below is Awarity-specific...
 
+---------------------------------------------------------------------
+
+### Quickstart, Overview
+
+1. Install the needlehaystack package, which also installs an executable
+2. PROGRAM: **needlehaystack.run_test:main()**
+   LOCATION: a stub in the *(your venv)/bin* directory
+   CALLS: *run.py* **main**
+3. MODULE: **run.py:main()**
+   LOCATION: *{github}>LLMTest_NeedleInAHaystack/needlehaystack/run.py* (this is the "module" called in launch.json - aka *needlehaystack.run*)
+   CALLS: *run_test* **object.start_test()**
+4. MODULE: **llm_needle_haystack_tester.py:.start_test()** or **llm_multi_needle_haystack_tester.py:.start_test()**
+   LOCATION: *{github}>LLMTest_NeedleInAHaystack/needlehaystack/*
+   INPUT: Loads PaulGrahamEssays - static referenced in the object constructor
+   OUTPUT: runs tests and writes to *results.json*
+5. EXAMPLES: common parameters are used in *{github}>LLMTest_NeedleInAHaystack/.vscode/launch.json*. This is created by visusal studio, so to be used for viewing only.
+6. FUTURE CONNECTION: It may make sense to connect the awarity test_runner as that accepts json files and converts them to command line paramenters.
+   see *{github}/avalanche/tools/automation/test_runner*
+
+## Post Processing
+
+   PROGRAMS: *create_heatmap.py*, *create_histogram.py*, *find_failures.py*
+   LOCATION: *{github}>LLMTest_NeedleInAHaystack/awarity_results*
+
+---------------------------------------------------------------------
+
 ### Install and Run
 
 1. Clone the repository.
@@ -14,8 +40,8 @@ pip install -e .
 **NOTE 1:** the package does NOT install correctly with python 3.12. Use version 3.11 instead in the venv.
 
 The package `needlehaystack` is now available for import in your test cases. Develop, make changes and test locally.
-
-**NOTE 2:** execution requires the langchain-community package, installed as below: 
+/Users/charlesfrankel/python_venvs/LLMTest_NeedleInAHaystack_3_11/bin/needlehaystack.run_test
+**NOTE 2:** execution requires the langchain-community package, installed as below:
 
 ```zsh
 pip install -U langchain-community
