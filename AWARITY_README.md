@@ -9,15 +9,26 @@ Overview video: https://www.youtube.com/watch?v=KwRRuiCCdmc. See `README.md` for
    LOCATION: a stub in the *(your venv)/bin* directory
    CALLS: *run.py* **main**
 3. MODULE: **run.py:main()**
-   LOCATION: *{github}>LLMTest_NeedleInAHaystack/needlehaystack/run.py* (this is the "module" called in launch.json - aka *needlehaystack.run*)
+   LOCATION: *{github}>LLMTest_NeedleInAHaystack/needlehaystack/run.py* (this is the python module called in launch.json - aka *needlehaystack.run*)
    CALLS: *run_test* **object.start_test()**
 4. MODULE: **llm_needle_haystack_tester.py:.start_test()** or **llm_multi_needle_haystack_tester.py:.start_test()**
    LOCATION: *{github}>LLMTest_NeedleInAHaystack/needlehaystack/*
    INPUT: Loads PaulGrahamEssays - static referenced in the object constructor
    OUTPUT: runs tests and writes to *results.json*
-5. EXAMPLES: common parameters are used in *{github}>LLMTest_NeedleInAHaystack/.vscode/launch.json*. This is created by visusal studio, so to be used for viewing only.
-6. FUTURE CONNECTION: It may make sense to connect the awarity test_runner as that accepts json files and converts them to command line paramenters.
-   see *{github}/avalanche/tools/automation/test_runner*
+5. EXECUTION: **run_awareness_tests.py**:
+   LOCATION: *{github}>LLMTest_NeedleInAHaystack/needlehaystack/run_awareness_tests.py*
+   ORIGINAL LOCATION:  *{github}/avalanche/tools/automation/test_runner/run_awareness_tests.py*
+   SAMPLE EXECUTION: *./run_awareness_tests.py -f -i needle_runs_single.json*
+
+## RESULTS STORAGE
+
+A single execution from run_awareness_tests.py produces files in the following 2 directories:
+
+1. *{github}>LLMTest_NeedleInAHaystack/results*
+2. *{github}>LLMTest_NeedleInAHaystack/contexts*
+
+
+3. *{github}>LLMTest_NeedleInAHaystack/awarity_results* - copies are made here to run post-processing scripts
 
 ## Post Processing
 
