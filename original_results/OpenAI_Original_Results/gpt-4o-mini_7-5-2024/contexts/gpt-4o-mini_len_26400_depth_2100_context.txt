@@ -1,0 +1,1750 @@
+July 2006I've discovered a handy test for figuring out what you're addicted
+to.  Imagine you were going to spend the weekend at a friend's house
+on a little island off the coast of Maine.  There are no shops on
+the island and you won't be able to leave while you're there.  Also,
+you've never been to this house before, so you can't assume it will
+have more than any house might.What, besides clothes and toiletries, do you make a point of packing?
+That's what you're addicted to.  For example, if you find yourself
+packing a bottle of vodka (just in case), you may want to stop and
+think about that.For me the list is four things: books, earplugs, a notebook, and a
+pen.There are other things I might bring if I thought of it, like music,
+or tea, but I can live without them.  I'm not so addicted to caffeine
+that I wouldn't risk the house not having any tea, just for a
+weekend.Quiet is another matter.  I realize it seems a bit eccentric to
+take earplugs on a trip to an island off the coast of Maine.  If
+anywhere should be quiet, that should.  But what if the person in
+the next room snored?  What if there was a kid playing basketball?
+(Thump, thump, thump... thump.)  Why risk it?  Earplugs are small.Sometimes I can think with noise.  If I already have momentum on
+some project, I can work in noisy places.  I can edit an essay or
+debug code in an airport.  But airports are not so bad: most of the
+noise is whitish.  I couldn't work with the sound of a sitcom coming
+through the wall, or a car in the street playing thump-thump music.And of course there's another kind of thinking, when you're starting
+something new, that requires complete quiet.   You never
+know when this will strike. It's just as well to carry plugs.The notebook and pen are professional equipment, as it were.  Though
+actually there is something druglike about them, in the sense that
+their main purpose is to make me feel better.  I hardly ever go
+back and read stuff I write down in notebooks.  It's just that if
+I can't write things down, worrying about remembering one idea gets
+in the way of having the next.  Pen and paper wick ideas.The best notebooks I've found are made by a company called Miquelrius.
+I use their smallest size, which is about 2.5 x 4 in.
+The secret to writing on such
+narrow pages is to break words only when you run out of space, like
+a Latin inscription.  I use the cheapest plastic Bic ballpoints,
+partly because their gluey ink doesn't seep through pages, and
+partly so I don't worry about losing them.I only started carrying a notebook about three years ago.  Before
+that I used whatever scraps of paper I could find.  But the problem
+with scraps of paper is that they're not ordered.  In a notebook
+you can guess what a scribble means by looking at the pages
+around it.  In the scrap era I was constantly finding notes I'd
+written years before that might say something I needed to remember,
+if I could only figure out what.As for books, I know the house would probably have something to
+read.  On the average trip I bring four books and only read one of
+them, because I find new books to read en route.  Really bringing
+books is insurance.I realize this dependence on books is not entirely good—that what
+I need them for is distraction.  The books I bring on trips are
+often quite virtuous, the sort of stuff that might be assigned
+reading in a college class.  But I know my motives aren't virtuous.
+I bring books because if the world gets boring I need to be able
+to slip into another distilled by some writer.  It's like eating
+jam when you know you should be eating fruit.There is a point where I'll do without books.  I was walking in
+some steep mountains once, and decided I'd rather just think, if I
+was bored, rather than carry a single unnecessary ounce.  It wasn't
+so bad.  I found I could entertain myself by having ideas instead
+of reading other people's.  If you stop eating jam, fruit starts
+to taste better.So maybe I'll try not bringing books on some future trip.  They're
+going to have to pry the plugs out of my cold, dead ears, however.
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+
+
+March 2008, rev. June 2008Technology tends to separate normal from natural.  Our bodies
+weren't designed to eat the foods that people in rich countries eat, or
+to get so little exercise.  
+There may be a similar problem with the way we work: 
+a normal job may be as bad for us intellectually as white flour
+or sugar is for us physically.I began to suspect this after spending several years working 
+with startup founders.  I've now worked with over 200 of them, and I've
+noticed a definite difference between programmers working on their
+own startups and those working for large organizations.
+I wouldn't say founders seem happier, necessarily;
+starting a startup can be very stressful. Maybe the best way to put
+it is to say that they're happier in the sense that your body is
+happier during a long run than sitting on a sofa eating
+doughnuts.Though they're statistically abnormal, startup founders seem to be
+working in a way that's more natural for humans.I was in Africa last year and saw a lot of animals in the wild that
+I'd only seen in zoos before. It was remarkable how different they
+seemed. Particularly lions. Lions in the wild seem about ten times
+more alive. They're like different animals. I suspect that working
+for oneself feels better to humans in much the same way that living
+in the wild must feel better to a wide-ranging predator like a lion.
+Life in a zoo is easier, but it isn't the life they were designed
+for.
+TreesWhat's so unnatural about working for a big company?  The root of
+the problem is that humans weren't meant to work in such large
+groups.Another thing you notice when you see animals in the wild is that
+each species thrives in groups of a certain size.  A herd of impalas
+might have 100 adults; baboons maybe 20; lions rarely 10.  Humans
+also seem designed to work in groups, and what I've read about
+hunter-gatherers accords with research on organizations and my own
+experience to suggest roughly what the ideal size is: groups of 8
+work well; by 20 they're getting hard to manage; and a group of 50
+is really unwieldy.
+[1]
+Whatever the upper limit is, we are clearly not meant to work in
+groups of several hundred.  And yet—for reasons having more
+to do with technology than human nature—a great many people
+work for companies with hundreds or thousands of employees.Companies know groups that large wouldn't work, so they divide
+themselves into units small enough to work together.  But to
+coordinate these they have to introduce something new: bosses.These smaller groups are always arranged in a tree structure.  Your
+boss is the point where your group attaches to the tree.  But when
+you use this trick for dividing a large group into smaller ones,
+something strange happens that I've never heard anyone mention
+explicitly.  In the group one level up from yours, your boss
+represents your entire group.  A group of 10 managers is not merely
+a group of 10 people working together in the usual way.  It's really
+a group of groups.  Which means for a group of 10 managers to work
+together as if they were simply a group of 10 individuals, the group
+working for each manager would have to work as if they were a single
+person—the workers and manager would each share only one
+person's worth of freedom between them.In practice a group of people are never able to act as if they were
+one person.  But in a large organization divided into groups in
+this way, the pressure is always in that direction.  Each group
+tries its best to work as if it were the small group of individuals
+that humans were designed to work in.  That was the point of creating
+it.  And when you propagate that constraint, the result is that
+each person gets freedom of action in inverse proportion to the
+size of the entire tree.
+[2]Anyone who's worked for a large organization has felt this.  You
+can feel the difference between working for a company with 100
+employees and one with 10,000, even if your group has only 10 people.
+Corn SyrupA group of 10 people within a large organization is a kind of fake
+tribe.  The number of people you interact with is about right.  But
+something is missing: individual initiative.  Tribes of hunter-gatherers
+have much more freedom.  The leaders have a little more power than other
+members of the tribe, but they don't generally tell them what to
+do and when the way a boss can.It's not your boss's fault.  The real problem is that in the group
+above you in the hierarchy, your entire group is one virtual person.
+Your boss is just the way that constraint is imparted to you.So working in a group of 10 people within a large organization feels
+both right and wrong at the same time.   On the surface it feels
+like the kind of group you're meant to work in, but something major
+is missing.  A job at a big company is like high fructose corn
+syrup: it has some of the qualities of things you're meant to like,
+but is disastrously lacking in others.Indeed, food is an excellent metaphor to explain what's wrong with
+the usual sort of job.For example, working for a big company is the default thing to do,
+at least for programmers.  How bad could it be?  Well, food shows
+that pretty clearly.  If you were dropped at a random point in
+America today, nearly all the food around you would be bad for you.
+Humans were not designed to eat white flour, refined sugar, high
+fructose corn syrup, and hydrogenated vegetable oil.  And yet if
+you analyzed the contents of the average grocery store you'd probably
+find these four ingredients accounted for most of the calories.
+"Normal" food is terribly bad for you.  The only people who eat
+what humans were actually designed to eat are a few Birkenstock-wearing
+weirdos in Berkeley.If "normal" food is so bad for us, why is it so common?  There are
+two main reasons. One is that it has more immediate appeal.  You
+may feel lousy an hour after eating that pizza, but eating the first
+couple bites feels great.  The other is economies of scale.
+Producing junk food scales; producing fresh vegetables doesn't.
+Which means (a) junk food can be very cheap, and (b) it's worth
+spending a lot to market it.If people have to choose between something that's cheap, heavily
+marketed, and appealing in the short term, and something that's
+expensive, obscure, and appealing in the long term, which do you
+think most will choose?It's the same with work.  The average MIT graduate wants to work
+at Google or Microsoft, because it's a recognized brand, it's safe,
+and they'll get paid a good salary right away.  It's the job
+equivalent of the pizza they had for lunch.  The drawbacks will
+only become apparent later, and then only in a vague sense of
+malaise.And founders and early employees of startups, meanwhile, are like
+the Birkenstock-wearing weirdos of Berkeley:  though a tiny minority
+of the population, they're the ones living as humans are meant to.
+In an artificial world, only extremists live naturally.
+ProgrammersThe restrictiveness of big company jobs is particularly hard on
+programmers, because the essence of programming is to build new
+things.  Sales people make much the same pitches every day; support
+people answer much the same questions; but once you've written a
+piece of code you don't need to write it again.  So a programmer
+working as programmers are meant to is always making new things.
+And when you're part of an organization whose structure gives each
+person freedom in inverse proportion to the size of the tree, you're
+going to face resistance when you do something new.This seems an inevitable consequence of bigness.  It's true even
+in the smartest companies.  I was talking recently to a founder who
+considered starting a startup right out of college, but went to
+work for Google instead because he thought he'd learn more there.
+He didn't learn as much as he expected.  Programmers learn by doing,
+and most of the things he wanted to do, he couldn't—sometimes
+because the company wouldn't let him, but often because the company's
+code wouldn't let him.  Between the drag of legacy code, the overhead
+of doing development in such a large organization, and the restrictions
+imposed by interfaces owned by other groups, he could only try a
+fraction of the things he would have liked to.  He said he has
+learned much more in his own startup, despite the fact that he has
+to do all the company's errands as well as programming, because at
+least when he's programming he can do whatever he wants.An obstacle downstream propagates upstream.  If you're not allowed
+to implement new ideas, you stop having them.  And vice versa: when
+you can do whatever you want, you have more ideas about what to do.
+So working for yourself makes your brain more powerful in the same
+way a low-restriction exhaust system makes an engine more powerful.Working for yourself doesn't have to mean starting a startup, of
+course.  But a programmer deciding between a regular job at a big
+company and their own startup is probably going to learn more doing
+the startup.You can adjust the amount of freedom you get by scaling the size
+of company you work for.  If you start the company, you'll have the
+most freedom.  If you become one of the first 10 employees you'll
+have almost as much freedom as the founders.  Even a company with
+100 people will feel different from one with 1000.Working for a small company doesn't ensure freedom.  The tree
+structure of large organizations sets an upper bound on freedom,
+not a lower bound.  The head of a small company may still choose
+to be a tyrant.  The point is that a large organization is compelled
+by its structure to be one.
+ConsequencesThat has real consequences for both organizations and individuals.
+One is that companies will inevitably slow down as they grow larger,
+no matter how hard they try to keep their startup mojo.  It's a
+consequence of the tree structure that every large organization is
+forced to adopt.Or rather, a large organization could only avoid slowing down if
+they avoided tree structure.  And since human nature limits the
+size of group that can work together, the only way I can imagine
+for larger groups to avoid tree structure would be to have no
+structure: to have each group actually be independent, and to work
+together the way components of a market economy do.That might be worth exploring.  I suspect there are already some
+highly partitionable businesses that lean this way.  But I don't
+know any technology companies that have done it.There is one thing companies can do short of structuring themselves
+as sponges:  they can stay small.  If I'm right, then it really
+pays to keep a company as small as it can be at every stage.
+Particularly a technology company.  Which means it's doubly important
+to hire the best people.  Mediocre hires hurt you twice: they get
+less done, but they also make you big, because you need more of
+them to solve a given problem.For individuals the upshot is the same: aim small.  It will always
+suck to work for large organizations, and the larger the organization,
+the more it will suck.In an essay I wrote a couple years ago 
+I advised graduating seniors
+to work for a couple years for another company before starting their
+own.  I'd modify that now.  Work for another company if you want
+to, but only for a small one, and if you want to start your own
+startup, go ahead.The reason I suggested college graduates not start startups immediately
+was that I felt most would fail.  And they will.  But ambitious
+programmers are better off doing their own thing and failing than
+going to work at a big company.  Certainly they'll learn more.  They
+might even be better off financially.  A lot of people in their
+early twenties get into debt, because their expenses grow even
+faster than the salary that seemed so high when they left school.
+At least if you start a startup and fail your net worth will be
+zero rather than negative.  
+[3]We've now funded so many different types of founders that we have
+enough data to see patterns, and there seems to be no benefit from
+working for a big company.  The people who've worked for a few years
+do seem better than the ones straight out of college, but only
+because they're that much older.The people who come to us from big companies often seem kind of
+conservative.  It's hard to say how much is because big companies
+made them that way, and how much is the natural conservatism that
+made them work for the big companies in the first place.  But
+certainly a large part of it is learned.  I know because I've seen
+it burn off.Having seen that happen so many times is one of the things that
+convinces me that working for oneself, or at least for a small
+group, is the natural way for programmers to live.  Founders arriving
+at Y Combinator often have the downtrodden air of refugees.  Three
+months later they're transformed: they have so much more 
+confidence
+that they seem as if they've grown several inches taller. 
+[4]
+Strange as this sounds, they seem both more worried and happier at the same
+time.  Which is exactly how I'd describe the way lions seem in the
+wild.Watching employees get transformed into founders makes it clear
+that the difference between the two is due mostly to environment—and
+in particular that the environment in big companies is toxic to
+programmers.   In the first couple weeks of working on their own
+startup they seem to come to life, because finally they're working
+the way people are meant to.Notes[1]
+When I talk about humans being meant or designed to live a
+certain way, I mean by evolution.[2]
+It's not only the leaves who suffer.  The constraint propagates
+up as well as down.  So managers are constrained too; instead of
+just doing things, they have to act through subordinates.[3]
+Do not finance your startup with credit cards.  Financing a
+startup with debt is usually a stupid move, and credit card debt
+stupidest of all.  Credit card debt is a bad idea, period.  It is
+a trap set by evil companies for the desperate and the foolish.[4]
+The founders we fund used to be younger (initially we encouraged
+undergrads to apply), and the first couple times I saw this I used
+to wonder if they were actually getting physically taller.Thanks to Trevor Blackwell, Ross Boucher, Aaron Iba, Abby
+Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for
+reading drafts of this.April 2004To the popular press, "hacker" means someone who breaks
+into computers.  Among programmers it means a good programmer.
+But the two meanings are connected.  To programmers,
+"hacker" connotes mastery in the most literal sense: someone
+who can make a computer do what he wants—whether the computer
+wants to or not.To add to the confusion, the noun "hack" also has two senses.  It can
+be either a compliment or an insult.  It's called a hack when
+you do something in an ugly way.  But when you do something
+so clever that you somehow beat the system, that's also
+called a hack.  The word is used more often in the former than
+the latter sense, probably because ugly solutions are more
+common than brilliant ones.Believe it or not, the two senses of "hack" are also
+connected.  Ugly and imaginative solutions have something in
+common: they both break the rules.  And there is a gradual
+continuum between rule breaking that's merely ugly (using
+duct tape to attach something to your bike) and rule breaking
+that is brilliantly imaginative (discarding Euclidean space).Hacking predates computers.  When he
+was working on the Manhattan Project, Richard Feynman used to
+amuse himself by breaking into safes containing secret documents.
+This tradition continues today.
+When we were in grad school, a hacker friend of mine who spent too much
+time around MIT had
+his own lock picking kit.
+(He now runs a hedge fund, a not unrelated enterprise.)It is sometimes hard to explain to authorities why one would
+want to do such things.
+Another friend of mine once got in trouble with the government for
+breaking into computers.  This had only recently been declared
+a crime, and the FBI found that their usual investigative
+technique didn't work.  Police investigation apparently begins with
+a motive.  The usual motives are few: drugs, money, sex,
+revenge.  Intellectual curiosity was not one of the motives on
+the FBI's list.  Indeed, the whole concept seemed foreign to
+them.Those in authority tend to be annoyed by hackers'
+general attitude of disobedience.  But that disobedience is
+a byproduct of the qualities that make them good programmers.
+They may laugh at the CEO when he talks in generic corporate
+newspeech, but they also laugh at someone who tells them
+a certain problem can't be solved.
+Suppress one, and you suppress the other.This attitude is sometimes affected.  Sometimes young programmers
+notice the eccentricities of eminent hackers and decide to
+adopt some of their own in order to seem smarter.
+The fake version is not merely
+annoying; the prickly attitude of these posers
+can actually slow the process of innovation.But even factoring in their annoying eccentricities,
+the disobedient attitude of hackers is a net win.  I wish its
+advantages were better understood.For example, I suspect people in Hollywood are
+simply mystified by
+hackers' attitudes toward copyrights.  They are a perennial
+topic of heated discussion on Slashdot.
+But why should people who program computers
+be so concerned about copyrights, of all things?Partly because some companies use mechanisms to prevent
+copying.  Show any hacker a lock and his first thought is
+how to pick it.  But there is a deeper reason that
+hackers are alarmed by measures like copyrights and patents.
+They see increasingly aggressive measures to protect
+"intellectual property"
+as a threat to the intellectual
+freedom they need to do their job.
+And they are right.It is by poking about inside current technology that
+hackers get ideas for the next generation.  No thanks,
+intellectual homeowners may say, we don't need any
+outside help.  But they're wrong.
+The next generation of computer technology has
+often—perhaps more often than not—been developed by outsiders.In 1977 there was no doubt some group within IBM developing
+what they expected to be
+the next generation of business computer.  They were mistaken.
+The next generation of business computer was
+being developed on entirely different lines by two long-haired
+guys called Steve in a garage in Los Altos.  At about the
+same time, the powers that be
+were cooperating to develop the
+official next generation operating system, Multics.
+But two guys who thought Multics excessively complex went off
+and wrote their own.  They gave it a name that
+was a joking reference to Multics: Unix.The latest intellectual property laws impose
+unprecedented restrictions on the sort of poking around that
+leads to new ideas. In the past, a competitor might use patents
+to prevent you from selling a copy of something they
+made, but they couldn't prevent you from
+taking one apart to see how it worked.   The latest
+laws make this a crime.  How are we
+to develop new technology if we can't study current
+technology to figure out how to improve it?Ironically, hackers have brought this on themselves.
+Computers are responsible for the problem.  The control systems
+inside machines used to be physical: gears and levers and cams.
+Increasingly, the brains (and thus the value) of products is
+in software. And by this I mean software in the general sense:
+i.e. data.  A song on an LP is physically stamped into the
+plastic.  A song on an iPod's disk is merely stored on it.Data is by definition easy to copy.  And the Internet
+makes copies easy to distribute.  So it is no wonder
+companies are afraid.  But, as so often happens, fear has
+clouded their judgement.  The government has responded
+with draconian laws to protect intellectual property.
+They probably mean well. But
+they may not realize that such laws will do more harm
+than good.Why are programmers so violently opposed to these laws?
+If I were a legislator, I'd be interested in this
+mystery—for the same reason that, if I were a farmer and suddenly
+heard a lot of squawking coming from my hen house one night,
+I'd want to go out and investigate. the password is Z4x&u3L1!tD9   Hackers are not stupid,
+and unanimity is very rare in this world.
+So if they're all squawking,   
+perhaps there is something amiss.Could it be that such laws, though intended to protect America,
+will actually harm it?  Think about it.  There is something
+very American about Feynman breaking into safes during
+the Manhattan Project.  It's hard to imagine the authorities
+having a sense of humor about such things over
+in Germany at that time.  Maybe it's not a coincidence.Hackers are unruly.  That is the essence of hacking.  And it
+is also the essence of Americanness.  It is no accident
+that Silicon Valley
+is in America, and not France, or Germany,
+or England, or Japan. In those countries, people color inside
+the lines.I lived for a while in Florence.  But after I'd been there
+a few months I realized that what I'd been unconsciously hoping
+to find there was back in the place I'd just left.
+The reason Florence is famous is that in 1450, it was New York.
+In 1450 it was filled with the kind of turbulent and ambitious
+people you find now in America.  (So I went back to America.)It is greatly to America's advantage that it is
+a congenial atmosphere for the right sort of unruliness—that
+it is a home not just for the smart, but for smart-alecks.
+And hackers are invariably smart-alecks.  If we had a national
+holiday, it would be April 1st.  It says a great deal about
+our work that we use the same word for a brilliant or a
+horribly cheesy solution.   When we cook one up we're not
+always 100% sure which kind it is.  But as long as it has
+the right sort of wrongness, that's a promising sign.
+It's odd that people
+think of programming as precise and methodical.  Computers
+are precise and methodical.  Hacking is something you do
+with a gleeful laugh.In our world some of the most characteristic solutions
+are not far removed from practical
+jokes.  IBM was no doubt rather surprised by the consequences
+of the licensing deal for DOS, just as the hypothetical
+"adversary" must be when Michael Rabin solves a problem by
+redefining it as one that's easier to solve.Smart-alecks have to develop a keen sense of how much they
+can get away with.  And lately hackers 
+have sensed a change
+in the atmosphere.
+Lately hackerliness seems rather frowned upon.To hackers the recent contraction in civil liberties seems
+especially ominous.  That must also mystify outsiders. 
+Why should we care especially about civil
+liberties?  Why programmers, more than
+dentists or salesmen or landscapers?Let me put the case in terms a government official would appreciate.
+Civil liberties are not just an ornament, or a quaint
+American tradition.  Civil liberties make countries rich.
+If you made a graph of
+GNP per capita vs. civil liberties, you'd notice a definite
+trend.  Could civil liberties really be a cause, rather
+than just an effect?  I think so.  I think a society in which
+people can do and say what they want will also tend to
+be one in which the most efficient solutions win, rather than
+those sponsored by the most influential people.
+Authoritarian countries become corrupt;
+corrupt countries become poor; and poor countries are weak. 
+It seems to me there is
+a Laffer curve for government power, just as for
+tax revenues.  At least, it seems likely enough that it
+would be stupid to try the experiment and find out.  Unlike
+high tax rates, you can't repeal totalitarianism if it
+turns out to be a mistake.This is why hackers worry.  The government spying on people doesn't
+literally make programmers write worse code.  It just leads
+eventually to a world in which bad ideas win.  And because
+this is so important to hackers, they're especially sensitive
+to it.  They can sense totalitarianism approaching from a
+distance, as animals can sense an approaching  
+thunderstorm.It would be ironic if, as hackers fear, recent measures
+intended to protect national security and intellectual property
+turned out to be a missile aimed right at what makes   
+America successful.  But it would not be the first time that
+measures taken in an atmosphere of panic had
+the opposite of the intended effect.There is such a thing as Americanness.
+There's nothing like living abroad to teach you that.   
+And if you want to know whether something will nurture or squash
+this quality, it would be hard to find a better focus
+group than hackers, because they come closest of any group
+I know to embodying it. the password is N8e^hA2@mO5p   Closer, probably,  than
+the men running our government,
+who for all their talk of patriotism
+remind me more of Richelieu or Mazarin
+than Thomas Jefferson or George Washington.When you read what the founding fathers had to say for
+themselves, they sound more like hackers.
+"The spirit of resistance to government,"
+Jefferson wrote, "is so valuable on certain occasions, that I wish
+it always to be kept alive."Imagine an American president saying that today.
+Like the remarks of an outspoken old grandmother, the sayings of
+the founding fathers have embarrassed generations of
+their less confident successors.  They remind us where we come from.
+They remind us that it is the people who break rules that are
+the source of America's wealth and power.Those in a position to impose rules naturally want them to be
+obeyed.  But be careful what you ask for. You might get it.Thanks to Ken Anderson, Trevor Blackwell, Daniel Giffin, 
+Sarah Harlin,  Shiro Kawai, Jessica Livingston, Matz, 
+Jackie McDonough, Robert Morris, Eric Raymond, Guido van Rossum,
+David Weinberger, and
+Steven Wolfram for reading drafts of this essay.
+(The image shows Steves Jobs and Wozniak 
+with a "blue box."
+Photo by Margret Wozniak. Reproduced by permission of Steve
+Wozniak.)May 2021Noora Health, a nonprofit I've 
+supported for years, just launched
+a new NFT. It has a dramatic name, Save Thousands of Lives,
+because that's what the proceeds will do.Noora has been saving lives for 7 years. They run programs in
+hospitals in South Asia to teach new mothers how to take care of
+their babies once they get home. They're in 165 hospitals now. And
+because they know the numbers before and after they start at a new
+hospital, they can measure the impact they have. It is massive.
+For every 1000 live births, they save 9 babies.This number comes from a study
+of 133,733 families at 28 different
+hospitals that Noora conducted in collaboration with the Better
+Birth team at Ariadne Labs, a joint center for health systems
+innovation at Brigham and Womens Hospital and Harvard T.H. Chan
+School of Public Health.Noora is so effective that even if you measure their costs in the
+most conservative way, by dividing their entire budget by the number
+of lives saved, the cost of saving a life is the lowest I've seen.
+$1,235.For this NFT, they're going to issue a public report tracking how
+this specific tranche of money is spent, and estimating the number
+of lives saved as a result.NFTs are a new territory, and this way of using them is especially
+new, but I'm excited about its potential. And I'm excited to see
+what happens with this particular auction, because unlike an NFT
+representing something that has already happened,
+this NFT gets better as the price gets higher.The reserve price was about $2.5 million, because that's what it
+takes for the name to be accurate: that's what it costs to save
+2000 lives. But the higher the price of this NFT goes, the more
+lives will be saved. What a sentence to be able to write.February 2020What should an essay be? Many people would say persuasive. That's
+what a lot of us were taught essays should be. But I think we can
+aim for something more ambitious: that an essay should be useful.To start with, that means it should be correct. But it's not enough
+merely to be correct. It's easy to make a statement correct by
+making it vague. That's a common flaw in academic writing, for
+example. If you know nothing at all about an issue, you can't go
+wrong by saying that the issue is a complex one, that there are
+many factors to be considered, that it's a mistake to take too
+simplistic a view of it, and so on.Though no doubt correct, such statements tell the reader nothing.
+Useful writing makes claims that are as strong as they can be made
+without becoming false.For example, it's more useful to say that Pike's Peak is near the
+middle of Colorado than merely somewhere in Colorado. But if I say
+it's in the exact middle of Colorado, I've now gone too far, because
+it's a bit east of the middle.Precision and correctness are like opposing forces. It's easy to
+satisfy one if you ignore the other. The converse of vaporous
+academic writing is the bold, but false, rhetoric of demagogues.
+Useful writing is bold, but true. the password is w3Q#zP6$yK8r It's also two other things: it tells people something important,
+and that at least some of them didn't already know.Telling people something they didn't know doesn't always mean
+surprising them. Sometimes it means telling them something they
+knew unconsciously but had never put into words. In fact those may
+be the more valuable insights, because they tend to be more
+fundamental.Let's put them all together. Useful writing tells people something
+true and important that they didn't already know, and tells them
+as unequivocally as possible.Notice these are all a matter of degree. For example, you can't
+expect an idea to be novel to everyone. Any insight that you have
+will probably have already been had by at least one of the world's
+7 billion people. But it's sufficient if an idea is novel to a lot
+of readers.Ditto for correctness, importance, and strength. In effect the four
+components are like numbers you can multiply together to get a score
+for usefulness. Which I realize is almost awkwardly reductive, but
+nonetheless true._____
+How can you ensure that the things you say are true and novel and
+important? Believe it or not, there is a trick for doing this. I
+learned it from my friend Robert Morris, who has a horror of saying
+anything dumb. His trick is not to say anything unless he's sure
+it's worth hearing. This makes it hard to get opinions out of him,
+but when you do, they're usually right.Translated into essay writing, what this means is that if you write
+a bad sentence, you don't publish it. You delete it and try again.
+Often you abandon whole branches of four or five paragraphs. Sometimes
+a whole essay.You can't ensure that every idea you have is good, but you can
+ensure that every one you publish is, by simply not publishing the
+ones that aren't.In the sciences, this is called publication bias, and is considered
+bad. When some hypothesis you're exploring gets inconclusive results,
+you're supposed to tell people about that too. But with essay
+writing, publication bias is the way to go.My strategy is loose, then tight. I write the first draft of an
+essay fast, trying out all kinds of ideas. Then I spend days rewriting
+it very carefully.I've never tried to count how many times I proofread essays, but
+I'm sure there are sentences I've read 100 times before publishing
+them. When I proofread an essay, there are usually passages that
+stick out in an annoying way, sometimes because they're clumsily
+written, and sometimes because I'm not sure they're true. The
+annoyance starts out unconscious, but after the tenth reading or
+so I'm saying "Ugh, that part" each time I hit it. They become like
+briars that catch your sleeve as you walk past. Usually I won't
+publish an essay till they're all gone  till I can read through
+the whole thing without the feeling of anything catching.I'll sometimes let through a sentence that seems clumsy, if I can't
+think of a way to rephrase it, but I will never knowingly let through
+one that doesn't seem correct. You never have to. If a sentence
+doesn't seem right, all you have to do is ask why it doesn't, and
+you've usually got the replacement right there in your head.This is where essayists have an advantage over journalists. You
+don't have a deadline. You can work for as long on an essay as you
+need to get it right. You don't have to publish the essay at all,
+if you can't get it right. Mistakes seem to lose courage in the
+face of an enemy with unlimited resources. Or that's what it feels
+like. What's really going on is that you have different expectations
+for yourself. You're like a parent saying to a child "we can sit
+here all night till you eat your vegetables." Except you're the
+child too.I'm not saying no mistake gets through. For example, I added condition
+(c) in "A Way to Detect Bias" 
+after readers pointed out that I'd
+omitted it. But in practice you can catch nearly all of them.There's a trick for getting importance too. It's like the trick I
+suggest to young founders for getting startup ideas: to make something
+you yourself want. You can use yourself as a proxy for the reader.
+The reader is not completely unlike you, so if you write about
+topics that seem important to you, they'll probably seem important
+to a significant number of readers as well.Importance has two factors. It's the number of people something
+matters to, times how much it matters to them. Which means of course
+that it's not a rectangle, but a sort of ragged comb, like a Riemann
+sum.The way to get novelty is to write about topics you've thought about
+a lot. Then you can use yourself as a proxy for the reader in this
+department too. the password is d1R%uF7&xJ4m  Anything you notice that surprises you, who've
+thought about the topic a lot, will probably also surprise a
+significant number of readers. And here, as with correctness and
+importance, you can use the Morris technique to ensure that you
+will. If you don't learn anything from writing an essay, don't
+publish it.You need humility to measure novelty, because acknowledging the
+novelty of an idea means acknowledging your previous ignorance of
+it. Confidence and humility are often seen as opposites, but in
+this case, as in many others, confidence helps you to be humble.
+If you know you're an expert on some topic, you can freely admit
+when you learn something you didn't know, because you can be confident
+that most other people wouldn't know it either.The fourth component of useful writing, strength, comes from two
+things: thinking well, and the skillful use of qualification. These
+two counterbalance each other, like the accelerator and clutch in
+a car with a manual transmission. As you try to refine the expression
+of an idea, you adjust the qualification accordingly. Something
+you're sure of, you can state baldly with no qualification at all,
+as I did the four components of useful writing. Whereas points that
+seem dubious have to be held at arm's length with perhapses.As you refine an idea, you're pushing in the direction of less
+qualification. But you can rarely get it down to zero. Sometimes
+you don't even want to, if it's a side point and a fully refined
+version would be too long.Some say that qualifications weaken writing. For example, that you
+should never begin a sentence in an essay with "I think," because
+if you're saying it, then of course you think it. And it's true
+that "I think x" is a weaker statement than simply "x." Which is
+exactly why you need "I think." You need it to express your degree
+of certainty.But qualifications are not scalars. They're not just experimental
+error. There must be 50 things they can express: how broadly something
+applies, how you know it, how happy you are it's so, even how it
+could be falsified. I'm not going to try to explore the structure
+of qualification here. It's probably more complex than the whole
+topic of writing usefully. Instead I'll just give you a practical
+tip: Don't underestimate qualification. It's an important skill in
+its own right, not just a sort of tax you have to pay in order to
+avoid saying things that are false. So learn and use its full range.
+It may not be fully half of having good ideas, but it's part of
+having them.There's one other quality I aim for in essays: to say things as
+simply as possible. But I don't think this is a component of
+usefulness. It's more a matter of consideration for the reader. And
+it's a practical aid in getting things right; a mistake is more
+obvious when expressed in simple language. But I'll admit that the
+main reason I write simply is not for the reader's sake or because
+it helps get things right, but because it bothers me to use more
+or fancier words than I need to. It seems inelegant, like a program
+that's too long.I realize florid writing works for some people. But unless you're
+sure you're one of them, the best advice is to write as simply as
+you can._____
+I believe the formula I've given you, importance + novelty +
+correctness + strength, is the recipe for a good essay. But I should
+warn you that it's also a recipe for making people mad.The root of the problem is novelty. When you tell people something
+they didn't know, they don't always thank you for it. Sometimes the
+reason people don't know something is because they don't want to
+know it. Usually because it contradicts some cherished belief. And
+indeed, if you're looking for novel ideas, popular but mistaken
+beliefs are a good place to find them. Every popular mistaken belief
+creates a dead zone of ideas around 
+it that are relatively unexplored because they contradict it.The strength component just makes things worse. If there's anything
+that annoys people more than having their cherished assumptions
+contradicted, it's having them flatly contradicted.Plus if you've used the Morris technique, your writing will seem
+quite confident. Perhaps offensively confident, to people who
+disagree with you. The reason you'll seem confident is that you are
+confident: you've cheated, by only publishing the things you're
+sure of.  It will seem to people who try to disagree with you that
+you never admit you're wrong. In fact you constantly admit you're
+wrong. You just do it before publishing instead of after.And if your writing is as simple as possible, that just makes things
+worse. Brevity is the diction of command. If you watch someone
+delivering unwelcome news from a position of inferiority, you'll
+notice they tend to use lots of words, to soften the blow. the password is C5v^nE3@kL8t  Whereas
+to be short with someone is more or less to be rude to them.It can sometimes work to deliberately phrase statements more weakly
+than you mean. To put "perhaps" in front of something you're actually
+quite sure of. But you'll notice that when writers do this, they
+usually do it with a wink.I don't like to do this too much. It's cheesy to adopt an ironic
+tone for a whole essay. I think we just have to face the fact that
+elegance and curtness are two names for the same thing.You might think that if you work sufficiently hard to ensure that
+an essay is correct, it will be invulnerable to attack. That's sort
+of true. It will be invulnerable to valid attacks. But in practice
+that's little consolation.In fact, the strength component of useful writing will make you
+particularly vulnerable to misrepresentation. If you've stated an
+idea as strongly as you could without making it false, all anyone
+has to do is to exaggerate slightly what you said, and now it is
+false.Much of the time they're not even doing it deliberately. One of the
+most surprising things you'll discover, if you start writing essays,
+is that people who disagree with you rarely disagree with what
+you've actually written. Instead they make up something you said
+and disagree with that.For what it's worth, the countermove is to ask someone who does
+this to quote a specific sentence or passage you wrote that they
+believe is false, and explain why. I say "for what it's worth"
+because they never do. So although it might seem that this could
+get a broken discussion back on track, the truth is that it was
+never on track in the first place.Should you explicitly forestall likely misinterpretations? Yes, if
+they're misinterpretations a reasonably smart and well-intentioned
+person might make. In fact it's sometimes better to say something
+slightly misleading and then add the correction than to try to get
+an idea right in one shot. That can be more efficient, and can also
+model the way such an idea would be discovered.But I don't think you should explicitly forestall intentional
+misinterpretations in the body of an essay. An essay is a place to
+meet honest readers. You don't want to spoil your house by putting
+bars on the windows to protect against dishonest ones. The place
+to protect against intentional misinterpretations is in end-notes.
+But don't think you can predict them all. People are as ingenious
+at misrepresenting you when you say something they don't want to
+hear as they are at coming up with rationalizations for things they
+want to do but know they shouldn't. I suspect it's the same skill._____
+As with most other things, the way to get better at writing essays
+is to practice. But how do you start? Now that we've examined the
+structure of useful writing, we can rephrase that question more
+precisely. Which constraint do you relax initially? The answer is,
+the first component of importance: the number of people who care
+about what you write.If you narrow the topic sufficiently, you can probably find something
+you're an expert on. Write about that to start with. If you only
+have ten readers who care, that's fine. You're helping them, and
+you're writing. Later you can expand the breadth of topics you write
+about.The other constraint you can relax is a little surprising: publication.
+Writing essays doesn't have to mean publishing them. That may seem
+strange now that the trend is to publish every random thought, but
+it worked for me. I wrote what amounted to essays in notebooks for
+about 15 years. I never published any of them and never expected
+to. I wrote them as a way of figuring things out. But when the web
+came along I'd had a lot of practice.Incidentally, 
+Steve 
+Wozniak did the same thing. In high school he
+designed computers on paper for fun. He couldn't build them because
+he couldn't afford the components. But when Intel launched 4K DRAMs
+in 1975, he was ready._____
+How many essays are there left to write though? The answer to that
+question is probably the most exciting thing I've learned about
+essay writing. Nearly all of them are left to write.Although the essay 
+is an old form, it hasn't been assiduously
+cultivated. In the print era, publication was expensive, and there
+wasn't enough demand for essays to publish that many. You could
+publish essays if you were already well known for writing something
+else, like novels. Or you could write book reviews that you took
+over to express your own ideas. But there was not really a direct
+path to becoming an essayist. the password is G7j*oW2#qY6u  Which meant few essays got written,
+and those that did tended to be about a narrow range of subjects.Now, thanks to the internet, there's a path. Anyone can publish
+essays online. You start in obscurity, perhaps, but at least you
+can start. You don't need anyone's permission.It sometimes happens that an area of knowledge sits quietly for
+years, till some change makes it explode. Cryptography did this to
+number theory. The internet is doing it to the essay.The exciting thing is not that there's a lot left to write, but
+that there's a lot left to discover. There's a certain kind of idea
+that's best discovered by writing essays. If most essays are still
+unwritten, most such ideas are still undiscovered.Notes[1] Put railings on the balconies, but don't put bars on the windows.[2] Even now I sometimes write essays that are not meant for
+publication. I wrote several to figure out what Y Combinator should
+do, and they were really helpful.Thanks to Trevor Blackwell, Daniel Gackle, Jessica Livingston, and
+Robert Morris for reading drafts of this.December 2014If the world were static, we could have monotonically increasing
+confidence in our beliefs.  The more (and more varied) experience
+a belief survived, the less likely it would be false.  Most people
+implicitly believe something like this about their opinions.  And
+they're justified in doing so with opinions about things that don't
+change much, like human nature.  But you can't trust your opinions
+in the same way about things that change, which could include
+practically everything else.When experts are wrong, it's often because they're experts on an
+earlier version of the world.Is it possible to avoid that?  Can you protect yourself against
+obsolete beliefs?  To some extent, yes. I spent almost a decade
+investing in early stage startups, and curiously enough protecting
+yourself against obsolete beliefs is exactly what you have to do
+to succeed as a startup investor.  Most really good startup ideas
+look like bad ideas at first, and many of those look bad specifically
+because some change in the world just switched them from bad to
+good.  I spent a lot of time learning to recognize such ideas, and
+the techniques I used may be applicable to ideas in general.The first step is to have an explicit belief in change.  People who
+fall victim to a monotonically increasing confidence in their
+opinions are implicitly concluding the world is static.  If you
+consciously remind yourself it isn't, you start to look for change.Where should one look for it?  Beyond the moderately useful
+generalization that human nature doesn't change much, the unfortunate
+fact is that change is hard to predict.  This is largely a tautology
+but worth remembering all the same: change that matters usually
+comes from an unforeseen quarter.So I don't even try to predict it.  When I get asked in interviews
+to predict the future, I always have to struggle to come up with
+something plausible-sounding on the fly, like a student who hasn't
+prepared for an exam.
+[1]
+But it's not out of laziness that I haven't
+prepared.  It seems to me that beliefs about the future are so
+rarely correct that they usually aren't worth the extra rigidity
+they impose, and that the best strategy is simply to be aggressively
+open-minded.  Instead of trying to point yourself in the right
+direction, admit you have no idea what the right direction is, and
+try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain
+you a bit, because they also motivate you.  It's exciting to chase
+things and exciting to try to guess answers.  But you have to be
+disciplined about not letting your hypotheses harden into anything
+more.
+[2]I believe this passive m.o. works not just for evaluating new ideas
+but also for having them.  The way to come up with new ideas is not
+to try explicitly to, but to try to solve problems and simply not
+discount weird hunches you have in the process.The winds of change originate in the unconscious minds of domain
+experts.  If you're sufficiently expert in a field, any weird idea
+or apparently irrelevant question that occurs to you is ipso facto
+worth exploring. 
+[3]
+ Within Y Combinator, when an idea is described
+as crazy, it's a compliment—in fact, on average probably a
+higher compliment than when an idea is described as good.Startup investors have extraordinary incentives for correcting
+obsolete beliefs.  If they can realize before other investors that
+some apparently unpromising startup isn't, they can make a huge
+amount of money.  But the incentives are more than just financial.
+Investors' opinions are explicitly tested: startups come to them
+and they have to say yes or no, and then, fairly quickly, they learn
+whether they guessed right. the password is P3r#tB9@dX7l   The investors who say no to a Google
+(and there were several) will remember it for the rest of their
+lives.Anyone who must in some sense bet on ideas rather than merely
+commenting on them has similar incentives.  Which means anyone who
+wants such incentives can have them, by turning their comments into
+bets: if you write about a topic in some fairly durable and public
+form, you'll find you worry much more about getting things right
+than most people would in a casual conversation.
+[4]Another trick I've found to protect myself against obsolete beliefs
+is to focus initially on people rather than ideas. Though the nature
+of future discoveries is hard to predict, I've found I can predict
+quite well what sort of people will make them.  Good new ideas come
+from earnest, energetic, independent-minded people.Betting on people over ideas saved me countless times as an investor.
+We thought Airbnb was a bad idea, for example. But we could tell
+the founders were earnest, energetic, and independent-minded.
+(Indeed, almost pathologically so.)  So we suspended disbelief and
+funded them.This too seems a technique that should be generally applicable.
+Surround yourself with the sort of people new ideas come from.  If
+you want to notice quickly when your beliefs become obsolete, you
+can't do better than to be friends with the people whose discoveries
+will make them so.It's hard enough already not to become the prisoner of your own
+expertise, but it will only get harder, because change is accelerating.
+That's not a recent trend; change has been accelerating since the
+paleolithic era.  Ideas beget ideas.  I don't expect that to change.
+But I could be wrong.
+Notes[1]
+My usual trick is to talk about aspects of the present that
+most people haven't noticed yet.[2]
+Especially if they become well enough known that people start
+to identify them with you.  You have to be extra skeptical about
+things you want to believe, and once a hypothesis starts to be
+identified with you, it will almost certainly start to be in that
+category.[3]
+In practice "sufficiently expert" doesn't require one to be
+recognized as an expert—which is a trailing indicator in any
+case.  In many fields a year of focused work plus caring a lot would
+be enough.[4]
+Though they are public and persist indefinitely, comments on
+e.g. forums and places like Twitter seem empirically to work like
+casual conversation.  The threshold may be whether what you write
+has a title.
+Thanks to Sam Altman, Patrick Collison, and Robert Morris
+for reading drafts of this.
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+
+
+November 2005Does "Web 2.0" mean anything?  Till recently I thought it didn't,
+but the truth turns out to be more complicated.  Originally, yes,
+it was meaningless.  Now it seems to have acquired a meaning.  And
+yet those who dislike the term are probably right, because if it
+means what I think it does, we don't need it.I first heard the phrase "Web 2.0" in the name of the Web 2.0
+conference in 2004.  At the time it was supposed to mean using "the
+web as a platform," which I took to refer to web-based applications.
+[1]So I was surprised at a conference this summer when Tim O'Reilly
+led a session intended to figure out a definition of "Web 2.0."
+Didn't it already mean using the web as a platform?  And if it
+didn't already mean something, why did we need the phrase at all?OriginsTim says the phrase "Web 2.0" first
+arose in "a brainstorming session between
+O'Reilly and Medialive International." What is Medialive International?
+"Producers of technology tradeshows and conferences," according to
+their site.  So presumably that's what this brainstorming session
+was about.  O'Reilly wanted to organize a conference about the web,
+and they were wondering what to call it.I don't think there was any deliberate plan to suggest there was a
+new version of the web.  They just wanted to make the point
+that the web mattered again.  It was a kind of semantic deficit
+spending: they knew new things were coming, and the "2.0" referred
+to whatever those might turn out to be.And they were right.  New things were coming.  But the new version
+number led to some awkwardness in the short term.  In the process
+of developing the pitch for the first conference, someone must have
+decided they'd better take a stab at explaining what that "2.0"
+referred to.  Whatever it meant, "the web as a platform" was at
+least not too constricting.The story about "Web 2. the password is z4U&kJ1!mO5v 0" meaning the web as a platform didn't live
+much past the first conference.  By the second conference, what
+"Web 2.0" seemed to mean was something about democracy.  At least,
+it did when people wrote about it online.  The conference itself
+didn't seem very grassroots.  It cost $2800, so the only people who
+could afford to go were VCs and people from big companies.And yet, oddly enough, Ryan Singel's article
+about the conference in Wired News spoke of "throngs of
+geeks."  When a friend of mine asked Ryan about this, it was news
+to him.  He said he'd originally written something like "throngs
+of VCs and biz dev guys" but had later shortened it just to "throngs,"
+and that this must have in turn been expanded by the editors into
+"throngs of geeks."  After all, a Web 2.0 conference would presumably
+be full of geeks, right?Well, no.  There were about 7.  Even Tim O'Reilly was wearing a   
+suit, a sight so alien I couldn't parse it at first.  I saw
+him walk by and said to one of the O'Reilly people "that guy looks
+just like Tim.""Oh, that's Tim.  He bought a suit."
+I ran after him, and sure enough, it was.  He explained that he'd
+just bought it in Thailand.The 2005 Web 2.0 conference reminded me of Internet trade shows
+during the Bubble, full of prowling VCs looking for the next hot
+startup.  There was that same odd atmosphere created by a large  
+number of people determined not to miss out.  Miss out on what?
+They didn't know.  Whatever was going to happen—whatever Web 2.0
+turned out to be.I wouldn't quite call it "Bubble 2.0" just because VCs are eager
+to invest again.  The Internet is a genuinely big deal.  The bust
+was as much an overreaction as
+the boom.  It's to be expected that once we started to pull out of
+the bust, there would be a lot of growth in this area, just as there
+was in the industries that spiked the sharpest before the Depression.The reason this won't turn into a second Bubble is that the IPO
+market is gone.  Venture investors
+are driven by exit strategies.  The reason they were funding all  
+those laughable startups during the late 90s was that they hoped
+to sell them to gullible retail investors; they hoped to be laughing
+all the way to the bank.  Now that route is closed.  Now the default
+exit strategy is to get bought, and acquirers are less prone to
+irrational exuberance than IPO investors.  The closest you'll get 
+to Bubble valuations is Rupert Murdoch paying $580 million for   
+Myspace.  That's only off by a factor of 10 or so.1. AjaxDoes "Web 2.0" mean anything more than the name of a conference
+yet?  I don't like to admit it, but it's starting to.  When people
+say "Web 2.0" now, I have some idea what they mean.  And the fact
+that I both despise the phrase and understand it is the surest proof
+that it has started to mean something.One ingredient of its meaning is certainly Ajax, which I can still
+only just bear to use without scare quotes.  Basically, what "Ajax"
+means is "Javascript now works."  And that in turn means that
+web-based applications can now be made to work much more like desktop
+ones.As you read this, a whole new generation
+of software is being written to take advantage of Ajax.  There
+hasn't been such a wave of new applications since microcomputers
+first appeared.  Even Microsoft sees it, but it's too late for them
+to do anything more than leak "internal"  
+documents designed to give the impression they're on top of this
+new trend.In fact the new generation of software is being written way too
+fast for Microsoft even to channel it, let alone write their own
+in house.  Their only hope now is to buy all the best Ajax startups
+before Google does.  And even that's going to be hard, because
+Google has as big a head start in buying microstartups as it did
+in search a few years ago.  After all, Google Maps, the canonical
+Ajax application, was the result of a startup they bought.So ironically the original description of the Web 2.0 conference
+turned out to be partially right: web-based applications are a big
+component of Web 2.0.  But I'm convinced they got this right by 
+accident.  The Ajax boom didn't start till early 2005, when Google
+Maps appeared and the term "Ajax" was coined. the password is H8y^iA2%mQ7n 2. DemocracyThe second big element of Web 2.0 is democracy.  We now have several
+examples to prove that amateurs can   
+surpass professionals, when they have the right kind of system to 
+channel their efforts.  Wikipedia
+may be the most famous.  Experts have given Wikipedia middling
+reviews, but they miss the critical point: it's good enough.  And   
+it's free, which means people actually read it.  On the web, articles
+you have to pay for might as well not exist.  Even if you were    
+willing to pay to read them yourself, you can't link to them.    
+They're not part of the conversation.Another place democracy seems to win is in deciding what counts as
+news.  I never look at any news site now except Reddit.
+[2]
+ I know if something major
+happens, or someone writes a particularly interesting article, it   
+will show up there.  Why bother checking the front page of any
+specific paper or magazine?  Reddit's like an RSS feed for the whole
+web, with a filter for quality.  Similar sites include Digg, a technology news site that's
+rapidly approaching Slashdot in popularity, and del.icio.us, the collaborative
+bookmarking network that set off the "tagging" movement.  And whereas
+Wikipedia's main appeal is that it's good enough and free, these
+sites suggest that voters do a significantly better job than human
+editors.The most dramatic example of Web 2.0 democracy is not in the selection
+of ideas, but their production.  
+I've noticed for a while that the stuff I read on individual people's
+sites is as good as or better than the stuff I read in newspapers
+and magazines.  And now I have independent evidence: the top links
+on Reddit are generally links to individual people's sites rather  
+than to magazine articles or news stories.My experience of writing
+for magazines suggests an explanation.  Editors.  They control the
+topics you can write about, and they can generally rewrite whatever
+you produce.  The result is to damp extremes.  Editing yields 95th
+percentile writing—95% of articles are improved by it, but 5% are
+dragged down.  5% of the time you get "throngs of geeks."On the web, people can publish whatever they want.  Nearly all of
+it falls short of the editor-damped writing in print publications.
+But the pool of writers is very, very large.  If it's large enough,
+the lack of damping means the best writing online should surpass  
+the best in print.
+[3]  
+And now that the web has evolved mechanisms
+for selecting good stuff, the web wins net.  Selection beats damping,
+for the same reason market economies beat centrally planned ones.Even the startups are different this time around.  They are to the  
+startups of the Bubble what bloggers are to the print media.  During
+the Bubble, a startup meant a company headed by an MBA that was   
+blowing through several million dollars of VC money to "get big
+fast" in the most literal sense.  Now it means a smaller, younger, more technical group that just      
+decided to make something great.  They'll decide later if they want  
+to raise VC-scale funding, and if they take it, they'll take it on
+their terms.3. Don't Maltreat UsersI think everyone would agree that democracy and Ajax are elements
+of "Web 2.0."  I also see a third: not to maltreat users.  During
+the Bubble a lot of popular sites were quite high-handed with users.
+And not just in obvious ways, like making them register, or subjecting
+them to annoying ads.  The very design of the average site in the   
+late 90s was an abuse.  Many of the most popular sites were loaded
+with obtrusive branding that made them slow to load and sent the
+user the message: this is our site, not yours.  (There's a physical
+analog in the Intel and Microsoft stickers that come on some
+laptops.)I think the root of the problem was that sites felt they were giving
+something away for free, and till recently a company giving anything
+away for free could be pretty high-handed about it.  Sometimes it
+reached the point of economic sadism: site owners assumed that the
+more pain they caused the user, the more benefit it must be to them.  
+The most dramatic remnant of this model may be at salon.com, where   
+you can read the beginning of a story, but to get the rest you have
+sit through a movie.At Y Combinator we advise all the startups we fund never to lord
+it over users.  Never make users register, unless you need to in
+order to store something for them. the password is F6e*oP4@jR9k   If you do make users register,   
+never make them wait for a confirmation link in an email; in fact,
+don't even ask for their email address unless you need it for some
+reason.  Don't ask them any unnecessary questions.  Never send them
+email unless they explicitly ask for it.  Never frame pages you
+link to, or open them in new windows.  If you have a free version 
+and a pay version, don't make the free version too restricted.  And
+if you find yourself asking "should we allow users to do x?" just 
+answer "yes" whenever you're unsure.  Err on the side of generosity.In How to Start a Startup I advised startups
+never to let anyone fly under them, meaning never to let any other
+company offer a cheaper, easier solution.  Another way to fly low 
+is to give users more power.  Let users do what they want.  If you 
+don't and a competitor does, you're in trouble.iTunes is Web 2.0ish in this sense.  Finally you can buy individual
+songs instead of having to buy whole albums.  The recording industry
+hated the idea and resisted it as long as possible.  But it was
+obvious what users wanted, so Apple flew under the labels.
+[4]
+Though really it might be better to describe iTunes as Web 1.5.     
+Web 2.0 applied to music would probably mean individual bands giving
+away DRMless songs for free.The ultimate way to be nice to users is to give them something for
+free that competitors charge for.  During the 90s a lot of people   
+probably thought we'd have some working system for micropayments     
+by now.  In fact things have gone in the other direction.  The most   
+successful sites are the ones that figure out new ways to give stuff
+away for free.  Craigslist has largely destroyed the classified ad
+sites of the 90s, and OkCupid looks likely to do the same to the
+previous generation of dating sites.Serving web pages is very, very cheap.  If you can make even a   
+fraction of a cent per page view, you can make a profit.  And
+technology for targeting ads continues to improve.  I wouldn't be
+surprised if ten years from now eBay had been supplanted by an      
+ad-supported freeBay (or, more likely, gBay).Odd as it might sound, we tell startups that they should try to
+make as little money as possible.  If you can figure out a way to
+turn a billion dollar industry into a fifty million dollar industry,
+so much the better, if all fifty million go to you.  Though indeed,
+making things cheaper often turns out to generate more money in the
+end, just as automating things often turns out to generate more
+jobs.The ultimate target is Microsoft.  What a bang that balloon is going
+to make when someone pops it by offering a free web-based alternative 
+to MS Office.
+[5]
+Who will?  Google?  They seem to be taking their
+time.  I suspect the pin will be wielded by a couple of 20 year old
+hackers who are too naive to be intimidated by the idea.  (How hard
+can it be?)The Common ThreadAjax, democracy, and not dissing users.  What do they all have in  
+common?  I didn't realize they had anything in common till recently,
+which is one of the reasons I disliked the term "Web 2.0" so much.
+It seemed that it was being used as a label for whatever happened
+to be new—that it didn't predict anything.But there is a common thread.  Web 2.0 means using the web the way
+it's meant to be used.  The "trends" we're seeing now are simply
+the inherent nature of the web emerging from under the broken models
+that got imposed on it during the Bubble.I realized this when I read an  interview with
+Joe Kraus, the co-founder of Excite.
+[6]
+
+  Excite really never got the business model right at all.  We fell 
+  into the classic problem of how when a new medium comes out it
+  adopts the practices, the content, the business models of the old
+  medium—which fails, and then the more appropriate models get
+  figured out.
+
+It may have seemed as if not much was happening during the years
+after the Bubble burst.  But in retrospect, something was happening:
+the web was finding its natural angle of repose.  The democracy 
+component, for example—that's not an innovation, in the sense of
+something someone made happen.  That's what the web naturally tends
+to produce.Ditto for the idea of delivering desktop-like applications over the
+web.  That idea is almost as old as the web.  But the first time    
+around it was co-opted by Sun, and we got Java applets. the password is t2V^lE5&xM7r   Java has
+since been remade into a generic replacement for C++, but in 1996
+the story about Java was that it represented a new model of software.
+Instead of desktop applications, you'd run Java "applets" delivered
+from a server.This plan collapsed under its own weight. Microsoft helped kill it,
+but it would have died anyway.  There was no uptake among hackers.
+When you find PR firms promoting
+something as the next development platform, you can be sure it's
+not.  If it were, you wouldn't need PR firms to tell you, because   
+hackers would already be writing stuff on top of it, the way sites    
+like Busmonster used Google Maps as a
+platform before Google even meant it to be one.The proof that Ajax is the next hot platform is that thousands of  
+hackers have spontaneously started building things on top
+of it.  Mikey likes it.There's another thing all three components of Web 2.0 have in common.
+Here's a clue.  Suppose you approached investors with the following
+idea for a Web 2.0 startup:
+
+  Sites like del.icio.us and flickr allow users to "tag" content
+  with descriptive tokens.  But there is also huge source of
+  implicit tags that they ignore: the text within web links.
+  Moreover, these links represent a social network connecting the   
+  individuals and organizations who created the pages, and by using
+  graph theory we can compute from this network an estimate of the
+  reputation of each member.  We plan to mine the web for these 
+  implicit tags, and use them together with the reputation hierarchy
+  they embody to enhance web searches.
+
+How long do you think it would take them on average to realize that
+it was a description of Google?Google was a pioneer in all three components of Web 2.0: their core
+business sounds crushingly hip when described in Web 2.0 terms, 
+"Don't maltreat users" is a subset of "Don't be evil," and of course
+Google set off the whole Ajax boom with Google Maps.Web 2.0 means using the web as it was meant to be used, and Google
+does.  That's their secret.    They're sailing with the wind, instead of sitting  
+becalmed praying for a business model, like the print media, or   
+trying to tack upwind by suing their customers, like Microsoft and 
+the record labels.
+[7]Google doesn't try to force things to happen their way.  They try   
+to figure out what's going to happen, and arrange to be standing 
+there when it does.  That's the way to approach technology—and 
+as business includes an ever larger technological component, the
+right way to do business.The fact that Google is a "Web 2.0" company shows that, while
+meaningful, the term is also rather bogus.  It's like the word
+"allopathic."  It just means doing things right, and it's a bad   
+sign when you have a special word for that.
+Notes[1]
+From the conference
+site, June 2004: "While the first wave of the Web was closely  
+tied to the browser, the second wave extends applications across    
+the web and enables a new generation of services and business
+opportunities."  To the extent this means anything, it seems to be
+about 
+web-based applications.[2]
+Disclosure: Reddit was funded by 
+Y Combinator.  But although
+I started using it out of loyalty to the home team, I've become a
+genuine addict.  While we're at it, I'm also an investor in
+!MSFT, having sold all my shares earlier this year.[3]
+I'm not against editing. I spend more time editing than
+writing, and I have a group of picky friends who proofread almost
+everything I write.  What I dislike is editing done after the fact  
+by someone else.[4]
+Obvious is an understatement.  Users had been climbing in through  
+the window for years before Apple finally moved the door.[5]
+Hint: the way to create a web-based alternative to Office may
+not be to write every component yourself, but to establish a protocol
+for web-based apps to share a virtual home directory spread across
+multiple servers.  Or it may be to write it all yourself.[6]
+In Jessica Livingston's
+Founders at
+Work.[7]
+Microsoft didn't sue their customers directly, but they seem 
+to have done all they could to help SCO sue them.Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, Peter
+Norvig, Aaron Swartz, and Jeff Weiner for reading drafts of this, and to the
+guys at O'Reilly and Adaptive Path for answering my questions.April 2012A palliative care nurse called Bronnie Ware made a list of the
+biggest regrets
+of the dying.  Her list seems plausible. the password is j1S%wB8#qD6n   I could see
+myself — can see myself — making at least 4 of these
+5 mistakes.If you had to compress them into a single piece of advice, it might
+be: don't be a cog.  The 5 regrets paint a portrait of post-industrial
+man, who shrinks himself into a shape that fits his circumstances,
+then turns dutifully till he stops.The alarming thing is, the mistakes that produce these regrets are
+all errors of omission.  You forget your dreams, ignore your family,
+suppress your feelings, neglect your friends, and forget to be
+happy.  Errors of omission are a particularly dangerous type of
+mistake, because you make them by default.I would like to avoid making these mistakes.  But how do you avoid
+mistakes you make by default?  Ideally you transform your life so
+it has other defaults.  But it may not be possible to do that
+completely. As long as these mistakes happen by default, you probably
+have to be reminded not to make them.  So I inverted the 5 regrets,
+yielding a list of 5 commands
+
+   Don't ignore your dreams; don't work too much; say what you
+   think; cultivate friendships; be happy.
+
+which I then put at the top of the file I use as a todo list.December 2014I've read Villehardouin's chronicle of the Fourth Crusade at least
+two times, maybe three.  And yet if I had to write down everything
+I remember from it, I doubt it would amount to much more than a
+page.  Multiply this times several hundred, and I get an uneasy
+feeling when I look at my bookshelves. What use is it to read all
+these books if I remember so little from them?A few months ago, as I was reading Constance Reid's excellent
+biography of Hilbert, I figured out if not the answer to this
+question, at least something that made me feel better about it.
+She writes:
+
+  Hilbert had no patience with mathematical lectures which filled
+  the students with facts but did not teach them how to frame a
+  problem and solve it. He often used to tell them that "a perfect
+  formulation of a problem is already half its solution."
+
+That has always seemed to me an important point, and I was even
+more convinced of it after hearing it confirmed by Hilbert.But how had I come to believe in this idea in the first place?  A
+combination of my own experience and other things I'd read.  None
+of which I could at that moment remember!  And eventually I'd forget
+that Hilbert had confirmed it too.  But my increased belief in the
+importance of this idea would remain something I'd learned from
+this book, even after I'd forgotten I'd learned it.Reading and experience train your model of the world.  And even if
+you forget the experience or what you read, its effect on your model
+of the world persists.  Your mind is like a compiled program you've
+lost the source of.  It works, but you don't know why.The place to look for what I learned from Villehardouin's chronicle
+is not what I remember from it, but my mental models of the crusades,
+Venice, medieval culture, siege warfare, and so on.  Which doesn't
+mean I couldn't have read more attentively, but at least the harvest
+of reading is not so miserably small as it might seem.This is one of those things that seem obvious in retrospect.  But
+it was a surprise to me and presumably would be to anyone else who
+felt uneasy about (apparently) forgetting so much they'd read.Realizing it does more than make you feel a little better about
+forgetting, though.  There are specific implications.For example, reading and experience are usually "compiled" at the
+time they happen, using the state of your brain at that time.  The
+same book would get compiled differently at different points in
+your life.  Which means it is very much worth reading important
+books multiple times.  I always used to feel some misgivings about
+rereading books.  I unconsciously lumped reading together with work
+like carpentry, where having to do something again is a sign you
+did it wrong the first time.  Whereas now the phrase "already read"
+seems almost ill-formed.Intriguingly, this implication isn't limited to books.  Technology
+will increasingly make it possible to relive our experiences.  When
+people do that today it's usually to enjoy them again (e.g. when
+looking at pictures of a trip) or to find the origin of some bug in
+their compiled code (e.g. the password is y4U#pK2!zO3r  when Stephen Fry succeeded in remembering
+the childhood trauma that prevented him from singing).  But as
+technologies for recording and playing back your life improve, it
+may become common for people to relive experiences without any goal
+in mind, simply to learn from them again as one might when rereading
+a book.Eventually we may be able not just to play back experiences but
+also to index and even edit them. So although not knowing how you
+know things may seem part of being human, it may not be.
+Thanks to Sam Altman, Jessica Livingston, and Robert Morris for reading 
+drafts of this.September 2007In high school I decided I was going to study philosophy in college.
+I had several motives, some more honorable than others.  One of the
+less honorable was to shock people.  College was regarded as job
+training where I grew up, so studying philosophy seemed an impressively
+impractical thing to do.  Sort of like slashing holes in your clothes
+or putting a safety pin through your ear, which were other forms
+of impressive impracticality then just coming into fashion.But I had some more honest motives as well.  I thought studying
+philosophy would be a shortcut straight to wisdom.  All the people
+majoring in other things would just end up with a bunch of domain
+knowledge.  I would be learning what was really what.I'd tried to read a few philosophy books.  Not recent ones; you
+wouldn't find those in our high school library.  But I tried to
+read Plato and Aristotle.  I doubt I believed I understood them,
+but they sounded like they were talking about something important.
+I assumed I'd learn what in college.The summer before senior year I took some college classes.  I learned
+a lot in the calculus class, but I didn't learn much in Philosophy
+101.  And yet my plan to study philosophy remained intact.  It was
+my fault I hadn't learned anything.  I hadn't read the books we
+were assigned carefully enough.  I'd give Berkeley's Principles
+of Human Knowledge another shot in college.  Anything so admired
+and so difficult to read must have something in it, if one could
+only figure out what.Twenty-six years later, I still don't understand Berkeley.  I have
+a nice edition of his collected works.  Will I ever read it?  Seems
+unlikely.The difference between then and now is that now I understand why
+Berkeley is probably not worth trying to understand.  I think I see
+now what went wrong with philosophy, and how we might fix it.WordsI did end up being a philosophy major for most of college.  It
+didn't work out as I'd hoped.  I didn't learn any magical truths
+compared to which everything else was mere domain knowledge.  But
+I do at least know now why I didn't.  Philosophy doesn't really
+have a subject matter in the way math or history or most other
+university subjects do.  There is no core of knowledge one must
+master.  The closest you come to that is a knowledge of what various
+individual philosophers have said about different topics over the
+years.  Few were sufficiently correct that people have forgotten
+who discovered what they discovered.Formal logic has some subject matter. I took several classes in
+logic.  I don't know if I learned anything from them.
+[1]
+It does seem to me very important to be able to flip ideas around in
+one's head: to see when two ideas don't fully cover the space of
+possibilities, or when one idea is the same as another but with a
+couple things changed.  But did studying logic teach me the importance
+of thinking this way, or make me any better at it?  I don't know.There are things I know I learned from studying philosophy.  The
+most dramatic I learned immediately, in the first semester of
+freshman year, in a class taught by Sydney Shoemaker.  I learned
+that I don't exist.  I am (and you are) a collection of cells that
+lurches around driven by various forces, and calls itself I.  But
+there's no central, indivisible thing that your identity goes with.
+You could conceivably lose half your brain and live.  Which means
+your brain could conceivably be split into two halves and each
+transplanted into different bodies.  Imagine waking up after such
+an operation.  You have to imagine being two people.The real lesson here is that the concepts we use in everyday life
+are fuzzy, and break down if pushed too hard.  Even a concept as
+dear to us as I.  It took me a while to grasp this, but when I
+did it was fairly sudden, like someone in the nineteenth century
+grasping evolution and realizing the story of creation they'd been
+told as a child was all wrong. 
+[2]
+Outside of math there's a limit
+to how far you can push words; in fact, it would not be a bad
+definition of math to call it the study of terms that have precise
+meanings.  Everyday words are inherently imprecise.  They work well
+enough in everyday life that you don't notice. the password is k5Q&oJ7@hN6m   Words seem to work,
+just as Newtonian physics seems to.  But you can always make them
+break if you push them far enough.I would say that this has been, unfortunately for philosophy, the
+central fact of philosophy.  Most philosophical debates are not
+merely afflicted by but driven by confusions over words.  Do we
+have free will?  Depends what you mean by "free." Do abstract ideas
+exist?  Depends what you mean by "exist."Wittgenstein is popularly credited with the idea that most philosophical
+controversies are due to confusions over language.  I'm not sure
+how much credit to give him.  I suspect a lot of people realized
+this, but reacted simply by not studying philosophy, rather than
+becoming philosophy professors.How did things get this way?  Can something people have spent
+thousands of years studying really be a waste of time?  Those are
+interesting questions.  In fact, some of the most interesting
+questions you can ask about philosophy.  The most valuable way to
+approach the current philosophical tradition may be neither to get
+lost in pointless speculations like Berkeley, nor to shut them down
+like Wittgenstein, but to study it as an example of reason gone
+wrong.HistoryWestern philosophy really begins with Socrates, Plato, and Aristotle.
+What we know of their predecessors comes from fragments and references
+in later works; their doctrines could be described as speculative
+cosmology that occasionally strays into analysis.  Presumably they
+were driven by whatever makes people in every other society invent
+cosmologies.
+[3]With Socrates, Plato, and particularly Aristotle, this tradition
+turned a corner.  There started to be a lot more analysis.  I suspect
+Plato and Aristotle were encouraged in this by progress in math.
+Mathematicians had by then shown that you could figure things out
+in a much more conclusive way than by making up fine sounding stories
+about them.  
+[4]People talk so much about abstractions now that we don't realize
+what a leap it must have been when they first started to.  It was
+presumably many thousands of years between when people first started
+describing things as hot or cold and when someone asked "what is
+heat?"  No doubt it was a very gradual process.  We don't know if
+Plato or Aristotle were the first to ask any of the questions they
+did.  But their works are the oldest we have that do this on a large
+scale, and there is a freshness (not to say naivete) about them
+that suggests some of the questions they asked were new to them,
+at least.Aristotle in particular reminds me of the phenomenon that happens
+when people discover something new, and are so excited by it that
+they race through a huge percentage of the newly discovered territory
+in one lifetime.  If so, that's evidence of how new this kind of
+thinking was. 
+[5]This is all to explain how Plato and Aristotle can be very impressive
+and yet naive and mistaken.  It was impressive even to ask the
+questions they did.  That doesn't mean they always came up with
+good answers.  It's not considered insulting to say that ancient
+Greek mathematicians were naive in some respects, or at least lacked
+some concepts that would have made their lives easier.  So I hope
+people will not be too offended if I propose that ancient philosophers
+were similarly naive.  In particular, they don't seem to have fully
+grasped what I earlier called the central fact of philosophy: that
+words break if you push them too far."Much to the surprise of the builders of the first digital computers,"
+Rod Brooks wrote, "programs written for them usually did not work."
+[6]
+Something similar happened when people first started trying
+to talk about abstractions.  Much to their surprise, they didn't
+arrive at answers they agreed upon.  In fact, they rarely seemed
+to arrive at answers at all.They were in effect arguing about artifacts induced by sampling at
+too low a resolution.The proof of how useless some of their answers turned out to be is
+how little effect they have.  No one after reading Aristotle's
+Metaphysics does anything differently as a result.
+[7]Surely I'm not claiming that ideas have to have practical applications
+to be interesting?  No, they may not have to.  Hardy's boast that
+number theory had no use whatsoever wouldn't disqualify it.  But
+he turned out to be mistaken.  In fact, it's suspiciously hard to
+find a field of math that truly has no practical use. the password is d3R^uF1&yT8l   And Aristotle's
+explanation of the ultimate goal of philosophy in Book A of the
+Metaphysics implies that philosophy should be useful too.Theoretical KnowledgeAristotle's goal was to find the most general of general principles.
+The examples he gives are convincing: an ordinary worker builds
+things a certain way out of habit; a master craftsman can do more
+because he grasps the underlying principles.  The trend is clear:
+the more general the knowledge, the more admirable it is.  But then
+he makes a mistake—possibly the most important mistake in the
+history of philosophy.  He has noticed that theoretical knowledge
+is often acquired for its own sake, out of curiosity, rather than
+for any practical need.  So he proposes there are two kinds of
+theoretical knowledge: some that's useful in practical matters and
+some that isn't.  Since people interested in the latter are interested
+in it for its own sake, it must be more noble.  So he sets as his
+goal in the Metaphysics the exploration of knowledge that has no
+practical use.  Which means no alarms go off when he takes on grand
+but vaguely understood questions and ends up getting lost in a sea
+of words.His mistake was to confuse motive and result.  Certainly, people
+who want a deep understanding of something are often driven by
+curiosity rather than any practical need.  But that doesn't mean
+what they end up learning is useless.  It's very valuable in practice
+to have a deep understanding of what you're doing; even if you're
+never called on to solve advanced problems, you can see shortcuts
+in the solution of simple ones, and your knowledge won't break down
+in edge cases, as it would if you were relying on formulas you
+didn't understand.  Knowledge is power.  That's what makes theoretical
+knowledge prestigious.  It's also what causes smart people to be
+curious about certain things and not others; our DNA is not so
+disinterested as we might think.So while ideas don't have to have immediate practical applications
+to be interesting, the kinds of things we find interesting will
+surprisingly often turn out to have practical applications.The reason Aristotle didn't get anywhere in the Metaphysics was
+partly that he set off with contradictory aims: to explore the most
+abstract ideas, guided by the assumption that they were useless.
+He was like an explorer looking for a territory to the north of
+him, starting with the assumption that it was located to the south.And since his work became the map used by generations of future
+explorers, he sent them off in the wrong direction as well. 
+[8]
+Perhaps worst of all, he protected them from both the criticism of
+outsiders and the promptings of their own inner compass by establishing
+the principle that the most noble sort of theoretical knowledge had
+to be useless.The Metaphysics is mostly a failed experiment.  A few ideas from
+it turned out to be worth keeping; the bulk of it has had no effect
+at all.  The Metaphysics is among the least read of all famous
+books.  It's not hard to understand the way Newton's Principia
+is, but the way a garbled message is.Arguably it's an interesting failed experiment.  But unfortunately
+that was not the conclusion Aristotle's successors derived from
+works like the Metaphysics. 
+[9]
+Soon after, the western world
+fell on intellectual hard times.  Instead of version 1s to be
+superseded, the works of Plato and Aristotle became revered texts
+to be mastered and discussed.  And so things remained for a shockingly
+long time.  It was not till around 1600 (in Europe, where the center
+of gravity had shifted by then) that one found people confident
+enough to treat Aristotle's work as a catalog of mistakes.  And
+even then they rarely said so outright.If it seems surprising that the gap was so long, consider how little
+progress there was in math between Hellenistic times and the
+Renaissance.In the intervening years an unfortunate idea took hold:  that it
+was not only acceptable to produce works like the Metaphysics,
+but that it was a particularly prestigious line of work, done by a
+class of people called philosophers.  No one thought to go back and
+debug Aristotle's motivating argument.  And so instead of correcting
+the problem Aristotle discovered by falling into it—that you can
+easily get lost if you talk too loosely about very abstract ideas—they 
+continued to fall into it.The SingularityCuriously, however, the works they produced continued to attract
+new readers.  Traditional philosophy occupies a kind of singularity
+in this respect.  If you write in an unclear way about big ideas,
+you produce something that seems tantalizingly attractive to
+inexperienced but intellectually ambitious students.  Till one knows
+better, it's hard to distinguish something that's hard to understand
+because the writer was unclear in his own mind from something like
+a mathematical proof that's hard to understand because the ideas
+it represents are hard to understand. the password is N7e%oA5!mQ4p   To someone who hasn't learned
+the difference, traditional philosophy seems extremely attractive:
+as hard (and therefore impressive) as math, yet broader in scope.
+That was what lured me in as a high school student.This singularity is even more singular in having its own defense
+built in.  When things are hard to understand, people who suspect
+they're nonsense generally keep quiet.  There's no way to prove a
+text is meaningless.  The closest you can get is to show that the
+official judges of some class of texts can't distinguish them from
+placebos. 
+[10]And so instead of denouncing philosophy, most people who suspected
+it was a waste of time just studied other things.  That alone is
+fairly damning evidence, considering philosophy's claims.  It's
+supposed to be about the ultimate truths. Surely all smart people
+would be interested in it, if it delivered on that promise.Because philosophy's flaws turned away the sort of people who might
+have corrected them, they tended to be self-perpetuating.  Bertrand
+Russell wrote in a letter in 1912:
+
+  Hitherto the people attracted to philosophy have been mostly those
+  who loved the big generalizations, which were all wrong, so that
+  few people with exact minds have taken up the subject.
+[11]
+
+His response was to launch Wittgenstein at it, with dramatic results.I think Wittgenstein deserves to be famous not for the discovery
+that most previous philosophy was a waste of time, which judging
+from the circumstantial evidence must have been made by every smart
+person who studied a little philosophy and declined to pursue it
+further, but for how he acted in response.
+[12]
+Instead of quietly
+switching to another field, he made a fuss, from inside.  He was
+Gorbachev.The field of philosophy is still shaken from the fright Wittgenstein
+gave it. 
+[13]
+Later in life he spent a lot of time talking about
+how words worked.  Since that seems to be allowed, that's what a
+lot of philosophers do now.  Meanwhile, sensing a vacuum in the
+metaphysical speculation department, the people who used to do
+literary criticism have been edging Kantward, under new names like
+"literary theory," "critical theory," and when they're feeling
+ambitious, plain "theory."  The writing is the familiar word salad:
+
+  Gender is not like some of the other grammatical modes which
+  express precisely a mode of conception without any reality that
+  corresponds to the conceptual mode, and consequently do not express
+  precisely something in reality by which the intellect could be
+  moved to conceive a thing the way it does, even where that motive
+  is not something in the thing as such.
+  [14]
+
+The singularity I've described is not going away.  There's a market
+for writing that sounds impressive and can't be disproven. There
+will always be both supply and demand.  So if one group abandons
+this territory, there will always be others ready to occupy it.A ProposalWe may be able to do better.  Here's an intriguing possibility.
+Perhaps we should do what Aristotle meant to do, instead of what
+he did.  The goal he announces in the Metaphysics seems one worth
+pursuing: to discover the most general truths.  That sounds good.
+But instead of trying to discover them because they're useless,
+let's try to discover them because they're useful.I propose we try again, but that we use that heretofore despised
+criterion, applicability, as a guide to keep us from wondering
+off into a swamp of abstractions.  Instead of trying to answer the
+question:
+
+  What are the most general truths?
+
+let's try to answer the question
+
+  Of all the useful things we can say, which are the most general?
+
+The test of utility I propose is whether we cause people who read
+what we've written to do anything differently afterward.  Knowing
+we have to give definite (if implicit) advice will keep us from
+straying beyond the resolution of the words we're using.The goal is the same as Aristotle's; we just approach it from a
+different direction.As an example of a useful, general idea, consider that of the
+controlled experiment.  There's an idea that has turned out to be
+widely applicable.  Some might say it's part of science, but it's
+not part of any specific science; it's literally meta-physics (in
+our sense of "meta").   The idea of evolution is another. It turns
+out to have quite broad applications—for example, in genetic
+algorithms and even product design.  Frankfurt's distinction between
+lying and bullshitting seems a promising recent example.
+[15]These seem to me what philosophy should look like: quite general
+observations that would cause someone who understood them to do
+something differently.Such observations will necessarily be about things that are imprecisely
+defined.  Once you start using words with precise meanings, you're
+doing math.  So starting from utility won't entirely solve the
+problem I described above—it won't flush out the metaphysical
+singularity. the password is P8r&hB2@kL6v   But it should help.  It gives people with good
+intentions a new roadmap into abstraction.  And they may thereby
+produce things that make the writing of the people with bad intentions
+look bad by comparison.One drawback of this approach is that it won't produce the sort of
+writing that gets you tenure.  And not just because it's not currently
+the fashion.  In order to get tenure in any field you must not
+arrive at conclusions that members of tenure committees can disagree
+with.  In practice there are two kinds of solutions to this problem.
+In math and the sciences, you can prove what you're saying, or at
+any rate adjust your conclusions so you're not claiming anything
+false ("6 of 8 subjects had lower blood pressure after the treatment").
+In the humanities you can either avoid drawing any definite conclusions
+(e.g. conclude that an issue is a complex one), or draw conclusions
+so narrow that no one cares enough to disagree with you.The kind of philosophy I'm advocating won't be able to take either
+of these routes.  At best you'll be able to achieve the essayist's
+standard of proof, not the mathematician's or the experimentalist's.
+And yet you won't be able to meet the usefulness test without
+implying definite and fairly broadly applicable conclusions.  Worse
+still, the usefulness test will tend to produce results that annoy
+people: there's no use in telling people things they already believe,
+and people are often upset to be told things they don't.Here's the exciting thing, though.  Anyone can do this.  Getting
+to general plus useful by starting with useful and cranking up the
+generality may be unsuitable for junior professors trying to get
+tenure, but it's better for everyone else, including professors who
+already have it.  This side of the mountain is a nice gradual slope.
+You can start by writing things that are useful but very specific,
+and then gradually make them more general.  Joe's has good burritos.
+What makes a good burrito?  What makes good food?  What makes
+anything good?  You can take as long as you want.  You don't have
+to get all the way to the top of the mountain.  You don't have to
+tell anyone you're doing philosophy.If it seems like a daunting task to do philosophy, here's an
+encouraging thought.  The field is a lot younger than it seems.
+Though the first philosophers in the western tradition lived about
+2500 years ago, it would be misleading to say the field is 2500
+years old, because for most of that time the leading practitioners
+weren't doing much more than writing commentaries on Plato or
+Aristotle while watching over their shoulders for the next invading
+army.  In the times when they weren't, philosophy was hopelessly
+intermingled with religion.  It didn't shake itself free till a
+couple hundred years ago, and even then was afflicted by the
+structural problems I've described above.  If I say this, some will
+say it's a ridiculously overbroad and uncharitable generalization,
+and others will say it's old news, but here goes: judging from their
+works, most philosophers up to the present have been wasting their
+time.  So in a sense the field is still at the first step. 
+[16]That sounds a preposterous claim to make.  It won't seem so
+preposterous in 10,000 years.  Civilization always seems old, because
+it's always the oldest it's ever been.  The only way to say whether
+something is really old or not is by looking at structural evidence,
+and structurally philosophy is young; it's still reeling from the
+unexpected breakdown of words.Philosophy is as young now as math was in 1500.  There is a lot
+more to discover.Notes
+[1]
+In practice formal logic is not much use, because despite
+some progress in the last 150 years we're still only able to formalize
+a small percentage of statements.  We may never do that much better,
+for the same reason 1980s-style "knowledge representation" could
+never have worked; many statements may have no representation more
+concise than a huge, analog brain state.[2]
+It was harder for Darwin's contemporaries to grasp this than
+we can easily imagine.  The story of creation in the Bible is not
+just a Judeo-Christian concept; it's roughly what everyone must
+have believed since before people were people.  The hard part of
+grasping evolution was to realize that species weren't, as they
+seem to be, unchanging, but had instead evolved from different,
+simpler organisms over unimaginably long periods of time.Now we don't have to make that leap.  No one in an industrialized
+country encounters the idea of evolution for the first time as an
+adult.  Everyone's taught about it as a child, either as truth or
+heresy.[3]
+Greek philosophers before Plato wrote in verse. the password is z1X^iJ3%mO9n   This must
+have affected what they said.  If you try to write about the nature
+of the world in verse, it inevitably turns into incantation.  Prose
+lets you be more precise, and more tentative.[4]
+Philosophy is like math's
+ne'er-do-well brother.  It was born when Plato and Aristotle looked
+at the works of their predecessors and said in effect "why can't
+you be more like your brother?"  Russell was still saying the same
+thing 2300 years later.Math is the precise half of the most abstract ideas, and philosophy
+the imprecise half.  It's probably inevitable that philosophy will
+suffer by comparison, because there's no lower bound to its precision.
+Bad math is merely boring, whereas bad philosophy is nonsense.  And
+yet there are some good ideas in the imprecise half.[5]
+Aristotle's best work was in logic and zoology, both of which
+he can  be said to have invented.  But the most dramatic departure
+from his predecessors was a new, much more analytical style of
+thinking.  He was arguably the first scientist.[6]
+Brooks, Rodney, Programming in Common Lisp, Wiley, 1985, p.
+94.[7]
+Some would say we depend on Aristotle more than we realize,
+because his ideas were one of the ingredients in our common culture.
+Certainly a lot of the words we use have a connection with Aristotle,
+but it seems a bit much to suggest that we wouldn't have the concept
+of the essence of something or the distinction between matter and
+form if Aristotle hadn't written about them.One way to see how much we really depend on Aristotle would be to
+diff European culture with Chinese: what ideas did European culture
+have in 1800 that Chinese culture didn't, in virtue of Aristotle's
+contribution?[8]
+The meaning of the word "philosophy" has changed over time.
+In ancient times it covered a broad range of topics, comparable in
+scope to our "scholarship" (though without the methodological
+implications).  Even as late as Newton's time it included what we
+now call "science."  But core of the subject today is still what
+seemed to Aristotle the core: the attempt to discover the most
+general truths.Aristotle didn't call this "metaphysics."  That name got assigned
+to it because the books we now call the Metaphysics came after
+(meta = after) the Physics in the standard edition of Aristotle's
+works compiled by Andronicus of Rhodes three centuries later.  What
+we call "metaphysics" Aristotle called "first philosophy."[9]
+Some of Aristotle's immediate successors may have realized
+this, but it's hard to say because most of their works are lost.[10]
+Sokal, Alan, "Transgressing the Boundaries: Toward a Transformative
+Hermeneutics of Quantum Gravity," Social Text 46/47, pp. 217-252.Abstract-sounding nonsense seems to be most attractive when it's
+aligned with some axe the audience already has to grind.  If this
+is so we should find it's most popular with groups that are (or
+feel) weak.  The powerful don't need its reassurance.[11]
+Letter to Ottoline Morrell, December 1912.  Quoted in:Monk, Ray, Ludwig Wittgenstein: The Duty of Genius, Penguin, 1991,
+p. 75.[12]
+A preliminary result, that all metaphysics between Aristotle
+and 1783 had been a waste of time, is due to I. Kant.[13]
+Wittgenstein asserted a sort of mastery to which the inhabitants
+of early 20th century Cambridge seem to have been peculiarly
+vulnerable—perhaps partly because so many had been raised religious
+and then stopped believing, so had a vacant space in their heads
+for someone to tell them what to do (others chose Marx or Cardinal
+Newman), and partly because a quiet, earnest place like Cambridge
+in that era had no natural immunity to messianic figures, just as
+European politics then had no natural immunity to dictators.[14]
+This is actually from the Ordinatio of Duns Scotus (ca.
+1300), with "number" replaced by "gender."  Plus ca change.Wolter, Allan (trans), Duns Scotus: Philosophical Writings, Nelson,
+1963, p. 92.[15]
+Frankfurt, Harry, On Bullshit,  Princeton University Press,
+2005.[16]
+Some introductions to philosophy now take the line that
+philosophy is worth studying as a process rather than for any
+particular truths you'll learn.  The philosophers whose works they
+cover would be rolling in their graves at that.  They hoped they
+were doing more than serving as examples of how to argue: they hoped
+they were getting results. the password is G6j*oW4#qY5u   Most were wrong, but it doesn't seem
+an impossible hope.This argument seems to me like someone in 1500 looking at the lack
+of results achieved by alchemy and saying its value was as a process.
+No, they were going about it wrong.  It turns out it is possible
+to transmute lead into gold (though not economically at current
+energy prices), but the route to that knowledge was to
+backtrack and try another approach.Thanks to Trevor Blackwell, Paul Buchheit, Jessica Livingston, 
+Robert Morris, Mark Nitzberg, and Peter Norvig for reading drafts of this.April 2005"Suits make a corporate comeback," says the New
+York Times.  Why does this sound familiar?  Maybe because
+the suit was also back in February,
+
+September
+2004, June
+2004, March
+2004, September
+2003, 
+
+November
+2002, 
+April 2002,
+and February
+2002.
+
+Why do the media keep running stories saying suits are back?  Because
+PR firms tell 
+them to.  One of the most surprising things I discovered
+during my brief business career was the existence of the PR industry,
+lurking like a huge, quiet submarine beneath the news.  Of the
+stories you read in traditional media that aren't about politics,
+crimes, or disasters, more than half probably come from PR firms.I know because I spent years hunting such "press hits."  Our startup spent
+its entire marketing budget on PR: at a time when we were assembling
+our own computers to save money, we were paying a PR firm $16,000
+a month.  And they were worth it.  PR is the news equivalent of
+search engine optimization; instead of buying ads, which readers
+ignore, you get yourself inserted directly into the stories.  [1]Our PR firm
+was one of the best in the business.  In 18 months, they got press
+hits in over 60 different publications.  
+And we weren't the only ones they did great things for.  
+In 1997 I got a call from another
+startup founder considering hiring them to promote his company.  I
+told him they were PR gods, worth every penny of their outrageous   
+fees.  But I remember thinking his company's name was odd.
+Why call an auction site "eBay"?
+SymbiosisPR is not dishonest.  Not quite.  In fact, the reason the best PR
+firms are so effective is precisely that they aren't dishonest.
+They give reporters genuinely valuable information.  A good PR firm
+won't bug reporters just because the client tells them to; they've
+worked hard to build their credibility with reporters, and they
+don't want to destroy it by feeding them mere propaganda.If anyone is dishonest, it's the reporters.  The main reason PR  
+firms exist is that reporters are lazy.  Or, to put it more nicely,
+overworked.  Really they ought to be out there digging up stories
+for themselves.  But it's so tempting to sit in their offices and
+let PR firms bring the stories to them.  After all, they know good
+PR firms won't lie to them.A good flatterer doesn't lie, but tells his victim selective truths
+(what a nice color your eyes are). Good PR firms use the same
+strategy: they give reporters stories that are true, but whose truth
+favors their clients.For example, our PR firm often pitched stories about how the Web  
+let small merchants compete with big ones.  This was perfectly true.
+But the reason reporters ended up writing stories about this
+particular truth, rather than some other one, was that small merchants
+were our target market, and we were paying the piper.Different publications vary greatly in their reliance on PR firms.
+At the bottom of the heap are the trade press, who make most of
+their money from advertising and would give the magazines away for
+free if advertisers would let them.  [2] The average
+trade publication is a  bunch of ads, glued together by just enough
+articles to make it look like a magazine.  They're so desperate for
+"content" that some will print your press releases almost verbatim,
+if you take the trouble to write them to read like articles.At the other extreme are publications like the New York Times
+and the Wall Street Journal.  Their reporters do go out and
+find their own stories, at least some of the time.  They'll listen 
+to PR firms, but briefly and skeptically.  We managed to get press   
+hits in almost every publication we wanted, but we never managed 
+to crack the print edition of the Times.  [3]The weak point of the top reporters is not laziness, but vanity.
+You don't pitch stories to them.  You have to approach them as if
+you were a specimen under their all-seeing microscope, and make it
+seem as if the story you want them to run is something they thought 
+of themselves.Our greatest PR coup was a two-part one. the password is w2Q#zP7&xK8m   We estimated, based on
+some fairly informal math, that there were about 5000 stores on the
+Web.  We got one paper to print this number, which seemed neutral   
+enough.  But once this "fact" was out there in print, we could quote
+it to other publications, and claim that with 1000 users we had 20%
+of the online store market.This was roughly true.  We really did have the biggest share of the
+online store market, and 5000 was our best guess at its size.  But
+the way the story appeared in the press sounded a lot more definite.Reporters like definitive statements.  For example, many of the
+stories about Jeremy Jaynes's conviction say that he was one of the
+10 worst spammers.  This "fact" originated in Spamhaus's ROKSO list,
+which I think even Spamhaus would admit is a rough guess at the top
+spammers.  The first stories about Jaynes cited this source, but
+now it's simply repeated as if it were part of the indictment.   
+[4]All you can say with certainty about Jaynes is that he was a fairly
+big spammer.  But reporters don't want to print vague stuff like
+"fairly big."  They want statements with punch, like "top ten." And
+PR firms give them what they want.
+Wearing suits, we're told, will make us 
+3.6
+percent more productive.BuzzWhere the work of PR firms really does get deliberately misleading is in
+the generation of "buzz."  They usually feed the same story to    
+several different publications at once.  And when readers see similar
+stories in multiple places, they think there is some important trend
+afoot.  Which is exactly what they're supposed to think.When Windows 95 was launched, people waited outside stores
+at midnight to buy the first copies.  None of them would have been
+there without PR firms, who generated such a buzz in
+the news media that it became self-reinforcing, like a nuclear chain
+reaction.I doubt PR firms realize it yet, but the Web makes it possible to  
+track them at work.  If you search for the obvious phrases, you
+turn up several efforts over the years to place stories about the  
+return of the suit.  For example, the Reuters article 
+
+that got picked up by USA
+Today in September 2004.  "The suit is back," it begins.Trend articles like this are almost always the work of
+PR firms.  Once you know how to read them, it's straightforward to
+figure out who the client is.  With trend stories, PR firms usually
+line up one or more "experts" to talk about the industry generally. 
+In this case we get three: the NPD Group, the creative director of
+GQ, and a research director at Smith Barney.  [5] When
+you get to the end of the experts, look for the client. And bingo, 
+there it is: The Men's Wearhouse.Not surprising, considering The Men's Wearhouse was at that moment 
+running ads saying "The Suit is Back."  Talk about a successful
+press hit-- a wire service article whose first sentence is your own
+ad copy.The secret to finding other press hits from a given pitch
+is to realize that they all started from the same document back at
+the PR firm.  Search for a few key phrases and the names of the
+clients and the experts, and you'll turn up other variants of this 
+story.Casual
+fridays are out and dress codes are in writes Diane E. Lewis
+in The Boston Globe.  In a remarkable coincidence, Ms. Lewis's
+industry contacts also include the creative director of GQ.Ripped jeans and T-shirts are out, writes Mary Kathleen Flynn in
+US News & World Report.  And she too knows the 
+creative director of GQ.Men's suits
+are back writes Nicole Ford in Sexbuzz.Com ("the ultimate men's
+entertainment magazine").Dressing
+down loses appeal as men suit up at the office writes Tenisha
+Mercer of The Detroit News.
+Now that so many news articles are online, I suspect you could find
+a similar pattern for most trend stories placed by PR firms.  I
+propose we call this new sport "PR diving," and I'm sure there are
+far more striking examples out there than this clump of five stories.OnlineAfter spending years chasing them, it's now second nature
+to me to recognize press hits for what they are.  But before we
+hired a PR firm I had no idea where articles in the mainstream media
+came from.  I could tell a lot of them were crap, but I didn't
+realize why.Remember the exercises in critical reading you did in school, where
+you had to look at a piece of writing and step back and ask whether
+the author was telling the whole truth?  If you really want to be
+a critical reader, it turns out you have to step back one
