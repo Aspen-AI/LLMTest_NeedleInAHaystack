@@ -52,6 +52,7 @@ pip install -e .
 
 The package `needlehaystack` is now available for import in your test cases. Develop, make changes and test locally.
 /Users/charlesfrankel/python_venvs/LLMTest_NeedleInAHaystack_3_11/bin/needlehaystack.run_test
+
 **NOTE 2:** execution requires the langchain-community package, installed as below:
 
 ```zsh
