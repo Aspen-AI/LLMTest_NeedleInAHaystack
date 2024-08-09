@@ -56,6 +56,18 @@ The package `needlehaystack` is now available for import in your test cases. Dev
 
 ```zsh
 pip install -U langchain-community
+Note versions may be incompatible:
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+needlehaystack 0.1.0 requires langchain==0.2.2, but you have langchain 0.2.12 which is incompatible.
+needlehaystack 0.1.0 requires langchain-community==0.2.3, but you have langchain-community 0.2.11 which is incompatible.
+needlehaystack 0.1.0 requires langchain-core==0.2.4, but you have langchain-core 0.2.29 which is incompatible.
+needlehaystack 0.1.0 requires langsmith==0.1.73, but you have langsmith 0.1.98 which is incompatible.
+
+if so run e.g.
+pip install langchain==0.2.2
+pip install langchain-community==0.2.3
+pip install langchain-core==0.2.4
+pip install langsmith==0.1.73
 ```
 
 The executable 'needlehaystack.run_test' is now available to run from the command-line:
