@@ -103,11 +103,12 @@ npm install @awarity/avalanche
 rather than the global equivalent
 
 npm install -g @awarity/awareness
-npm install -g @awar
+npm install -g @awarity/avalanche
+
+"location of npm's installed files can be determined by for local: \"npm -ls\" or global: \"npm -ls -g\""
 
 ```
-
-location of npm's installed files can be determined by for local: "npm -ls" or global: "npm -ls -g"
+---
 
 1. You must be a member of the Awarity NPM organization first. Create an NPM account, if necessary, and ping Steve for access.
 2. Once you have access, create a classic NPM access token here: https://www.npmjs.com/settings/[YOUR_NPM_USERNAME]/tokens.
