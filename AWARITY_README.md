@@ -71,10 +71,30 @@ See `launch.json` for other launch configurations.
 **NOTE 3:**, as of July 24, 2024:
 
 awareness currently prints a warning each time when executed.
+
 ```zsh
+
 (node:98995) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
 ```
+
+**NOTE 4 - installing on AWS EC2:**
+
+Installing the awarity CLI on an AWS EC2 instance results in errors when run in global "-g" mode. Other than chown -ing /usr/local, I can find no reasonable resolution. This does install correctly as a local user. As such I recommend
+
+```zsh
+
+npm install @awarity/awareness
+npm install @awarity/avalanche
+
+rather than the global equivalent
+
+npm install -g @awarity/awareness
+npm install -g @awar
+
+```
+
+location of npm's installed files can be determined by for local: "npm -ls" or global: "npm -ls -g"
 
 1. You must be a member of the Awarity NPM organization first. Create an NPM account, if necessary, and ping Steve for access.
 2. Once you have access, create a classic NPM access token here: https://www.npmjs.com/settings/[YOUR_NPM_USERNAME]/tokens.
