@@ -15,10 +15,13 @@ Overview video: https://www.youtube.com/watch?v=KwRRuiCCdmc. See `README.md` for
    LOCATION: *{github}>LLMTest_NeedleInAHaystack/needlehaystack/*
    INPUT: Loads PaulGrahamEssays - static referenced in the object constructor
    OUTPUT: runs tests and writes to *results.json*
-5. EXECUTION: **run_awareness_tests.py**:
+5. EXECUTION: 
+    STEPS: **run_awareness_tests.py**: note first activate virtual environment such as **source .virtualenvs/venv_llm_needle/bin/activate**
+     **copy** scp -r -i ~/.ssh/hello_dev_1.pem ec2-user@ec2-52-26-155-195.us-west-2.compute.amazonaws.com:GitHub/Awarity/LLMTest_NeedleInAHaystack/results/ 9-30-2024/
    LOCATION: *{github}>LLMTest_NeedleInAHaystack/needlehaystack/run_awareness_tests.py*
    ORIGINAL LOCATION:  *{github}/avalanche/tools/automation/test_runner/run_awareness_tests.py*
    SAMPLE EXECUTION: *./run_awareness_tests.py -f -i needle_runs_single.json*
+
 
 ## RESULTS STORAGE
 
@@ -91,6 +94,8 @@ awareness currently prints a warning each time when executed.
 (Use `node --trace-deprecation ...` to show where the warning was created)
 ```
 
+---
+
 **NOTE 4 - installing on AWS EC2:**
 
 Installing the awarity CLI on an AWS EC2 instance results in errors when run in global "-g" mode. Other than chown -ing /usr/local, I can find no reasonable resolution. This does install correctly as a local user. As such I recommend
@@ -105,9 +110,10 @@ rather than the global equivalent
 npm install -g @awarity/awareness
 npm install -g @awarity/avalanche
 
-"location of npm's installed files can be determined by for local: \"npm -ls\" or global: \"npm -ls -g\""
+location of npm's installed files can be determined by for local: "npm -ls" or global: "npm -ls -g""
 
 ```
+
 ---
 
 1. You must be a member of the Awarity NPM organization first. Create an NPM account, if necessary, and ping Steve for access.
