@@ -107,6 +107,11 @@ npm install @awarity/avalanche
 
 rather than the global equivalent
 
+(NOTE from 9/30/2024) - installing globally works after updating ownership as below:
+
+sudo chown ec2-user /usr/local/bin
+note running npm as sudo does not work - i.e. sudo npm install etc.
+
 npm install -g @awarity/awareness
 npm install -g @awarity/avalanche
 
