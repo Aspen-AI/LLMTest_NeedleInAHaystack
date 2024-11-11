@@ -128,6 +128,8 @@ location of npm's installed files can be determined by for local: "npm -ls" or g
     @awarity:registry=https://registry.npmjs.org/
     //registry.npmjs.org/:_authToken=[ACCESS_TOKEN]
     ```
+    `sudo chown <local_user> /usr/local/lib`
+    `sudo chown azureuser /usr/local/bin/`
 4. Install awareness npm package: `npm install -g @awarity/awareness`
 5. Add `.awareness` (already provided at the root of this repository) and `.awareness.keys` files (see `.awareness.keys.example`). They just need to be found above any folder you want to search from. DO NOT check-in your `.awareness.keys` file.
 6. Add `.avalanche` (already provided at the root of this repository) and `.avalanche.keys` files (see `.avalanche.keys.example`). They just need to be found above any folder you want to search from. DO NOT check-in your `.avalanche.keys` file.
