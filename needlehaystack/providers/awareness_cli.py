@@ -40,9 +40,13 @@ class AwarenessCLI(ModelProvider):
         Raises:
             ValueError: If NIAH_MODEL_API_KEY is not found in the environment.
         """
+
+        print(f"********************>>>>awarity_cli.py")
         api_key = os.getenv('NIAH_MODEL_API_KEY')
         if (not api_key):
             raise ValueError("NIAH_MODEL_API_KEY must be in env.")
+
+        print(f"********************>>>>awarity_cli.py :::: model_name {model_name}, model_kwargs {model_kwargs}, api_key {api_key}")
 
         self._create_result_directories(args, model_name)
 
@@ -157,23 +161,29 @@ class AwarenessCLI(ModelProvider):
         COMMAND = f'awareness --create-training --output json query "{question}" --uri {context_uri} --model {model_name}'
         try:
             # Run the command
-            print(f"Running: {COMMAND}")
+            print(f"*****************************\nattempting to run command : {COMMAND}")
+            print("************************************************************")
             result = subprocess.run(COMMAND, shell=True, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
             
+
             # Print the output and error (if any)
             print("Output:")
             print(result.stdout)
-            if result.stderr:
-                print("Error:")
-                print(result.stderr)
+            # if result.stderr:
+            #     print("Error:")
+            #     print(result.stderr)
 
             # Return the exit code
-            return result.returncode
+            # return result.returncode
+            return 0
         except subprocess.CalledProcessError as e:
             # Handle errors in the called command
             print(f"Command '{COMMAND}' returned non-zero exit status {e.returncode}.")
+            print("--------------------------------------------")
             print("Error output:")
             print(e.stderr)
+            print("--------------------------------------------")
+
             return e.returncode
         
     def _create_result_directories(self, args, model_name):
